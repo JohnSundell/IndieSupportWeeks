@@ -80,7 +80,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
 | [EBook Library: Easy PDF reader](https://apps.apple.com/us/app/ebook-library/id1482315390) | [@JJAllenTech](https://twitter.com/JJAllenTech) | |
-| [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | |
+| [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | |
 | [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee, Swift by Sundell, Sean Allen |
