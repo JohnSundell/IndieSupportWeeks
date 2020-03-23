@@ -19,6 +19,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Hacking with Swift](https://www.hackingwithswift.com)
 - [The Swift over Coffee Podcast](https://anchor.fm/swiftovercoffee)
 - [Swiftjective-C](https://www.swiftjectivec.com)
+- [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
 
 ## How to join the effort
 
@@ -154,7 +155,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Remove master for camera roll](https://apps.apple.com/us/app/remove-master-for-camera-roll/id792628362) | [@suniladhyaru](https://twitter.com/suniladhyaru) | |
 | [Ria Action Adventure](https://apps.apple.com/us/app/ria-action-adventure/id1463289104) | [@AlexKissiJr](https://twitter.com/AlexKissiJr) | |
 | [Robot Call Blocker](https://apps.apple.com/us/app/robot-call-blocker/id1437586931) | [@MurphyBrantley](https://twitter.com/MurphyBrantley) | |
-| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | |
+| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | A Swiftly Tilting Planet |
 | [RunIn - Running Training](https://apps.apple.com/br/app/runin-running-training/id1421917327?l=en) | [@fnazarios](https://twitter.com/fnazarios) | |
 | [Salari](https://apps.apple.com/us/app/salari/id1475439249) | [@luispnez](https://twitter.com/luispnez) | |
 | [Samplist](https://apps.apple.com/us/app/samplist/id1347142920) | [@alexbuga](https://twitter.com/alexbuga) | |
