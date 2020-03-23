@@ -125,6 +125,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) | |
+| [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NewsWave: RSS Feed Reader](https://apps.apple.com/us/app/newswave/id1373172727) | [@MarcMasVi](https://twitter.com/MarcMasVi) | |
 | [NFC for iPhone](https://apps.apple.com/app/id1249686798) | [@N1C0_MUC](https://twitter.com/N1C0_MUC) | |
