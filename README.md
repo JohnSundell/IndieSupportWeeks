@@ -50,9 +50,9 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
-| [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | |
-| [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift
-| [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | |
+| [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
+| [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
+| [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [Bill Organizer by Money Master](https://apps.apple.com/us/app/bill-organizer-by-money-master/id1358119874) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Book Track](https://simonemontalto.com/projects/book-track) | [@BookTrackApp](https://twitter.com/BookTrackApp) | Sean Allen |
 | [BuildCores: PC Parts & Builds](https://apps.apple.com/us/app/buildcores-pc-parts-builds/id1441971434) | [@KahlonHarshdeep](https://twitter.com/KahlonHarshdeep) | |
@@ -64,7 +64,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
 | [Circuitry - 3D Circuit Builder](https://apps.apple.com/us/app/circuitry-3d-circuit-builder/id1476733898) | [@n_crda](https://twitter.com/n_crda) | |
 | [Cleora](https://apps.apple.com/app/cleora/id1497821000) | [@natpanferova](https://twitter.com/natpanferova) | |
-| [CodeKit](https://codekitapp.com) | [@bdkjones](https://twitter.com/bdkjones) | |
+| [CodeKit](https://codekitapp.com) | [@bdkjones](https://twitter.com/bdkjones) | Donny Wals |
 | [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | |
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
@@ -90,13 +90,13 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
-| [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | |
+| [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | Donny Wals |
 | [HazeOver — Distraction Dimmer™ for Mac](https://hazeover.com) | [@pointum](https://twitter.com/pointum) | |
 | [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514) | [@slizeray](https://twitter.com/slizeray) | |
 | [Helvault - MTG Card Scanner](https://apps.apple.com/br/app/helvault-mtg-card-scanner/id1466963201) | [@vitorcesco](https://twitter.com/vitorcesco) | |
 | [Highlighted: Book Highlighter](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [@stuhecdamir](https://twitter.com/stuhecdamir) | |
 | [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | |
-| [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | |
+| [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
 | [Huh? Dictionary](https://apps.apple.com/app/id1330097506) | [@yaapete](https://twitter.com/yaapete) | |
 | [iFont: find, install any font](https://apps.apple.com/gb/app/ifont-find-install-any-font/id1173222289) | [@CameronFLeask](https://twitter.com/CameronFLeask) | |
 | [IntelliList - Shopping List](https://apps.apple.com/us/app/intellilist-shopping-list/id425278338) | [@mariozullo](https://twitter.com/mariozullo) | |
@@ -122,7 +122,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) | |
-| [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | |
+| [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NewsWave: RSS Feed Reader](https://apps.apple.com/us/app/newswave/id1373172727) | [@MarcMasVi](https://twitter.com/MarcMasVi) | |
 | [NFC for iPhone](https://apps.apple.com/app/id1249686798) | [@N1C0_MUC](https://twitter.com/N1C0_MUC) | |
 | [Nighthawk](https://nighthawk.app) | [@samhenrigold](https://twitter.com/samhenrigold) | |
@@ -209,7 +209,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
 | [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | |
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
-| [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C |
+| [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
 | [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell |
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
