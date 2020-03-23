@@ -20,6 +20,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [The Swift over Coffee Podcast](https://anchor.fm/swiftovercoffee)
 - [Swiftjective-C](https://www.swiftjectivec.com)
 - [The.Swift.Dev.](https://theswiftdev.com)
+- [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
 
 ## How to join the effort
 
@@ -68,6 +69,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CodeKit](https://codekitapp.com) | [@bdkjones](https://twitter.com/bdkjones) | Donny Wals |
 | [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | |
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
+| [Contacts Journal CRM](https://itunes.apple.com/us/app/contacts-journal-crm-professional/id327685977) | [@zulfishah](https://twitter.com/zulfishah) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
@@ -147,6 +149,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
+| [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walford_east) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
 | [RailModeller Pro](https://www.railmodeller.com) | [@IsleOfTheKakapo](https://twitter.com/IsleOfTheKakapo) | |
 | [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
@@ -155,7 +158,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Remove master for camera roll](https://apps.apple.com/us/app/remove-master-for-camera-roll/id792628362) | [@suniladhyaru](https://twitter.com/suniladhyaru) | |
 | [Ria Action Adventure](https://apps.apple.com/us/app/ria-action-adventure/id1463289104) | [@AlexKissiJr](https://twitter.com/AlexKissiJr) | |
 | [Robot Call Blocker](https://apps.apple.com/us/app/robot-call-blocker/id1437586931) | [@MurphyBrantley](https://twitter.com/MurphyBrantley) | |
-| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | |
+| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | A Swiftly Tilting Planet |
 | [RunIn - Running Training](https://apps.apple.com/br/app/runin-running-training/id1421917327?l=en) | [@fnazarios](https://twitter.com/fnazarios) | |
 | [Salari](https://apps.apple.com/us/app/salari/id1475439249) | [@luispnez](https://twitter.com/luispnez) | |
 | [Samplist](https://apps.apple.com/us/app/samplist/id1347142920) | [@alexbuga](https://twitter.com/alexbuga) | |
@@ -165,7 +168,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
 | [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
-| [SHOPIT](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
+| [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
@@ -204,6 +207,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
+| [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
 | [Water & Coffee](https://apps.apple.com/us/app/water-coffee/id1475423483) | [@NickFoster56](https://twitter.com/NickFoster56) | |
 | [WeatherGO - Temperature App](https://apps.apple.com/us/app/weathergo-temperature-app/id1271073320) | [@Piazza_Chris](https://twitter.com/Piazza_Chris) | |
