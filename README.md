@@ -100,6 +100,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [iFont: find, install any font](https://apps.apple.com/gb/app/ifont-find-install-any-font/id1173222289) | [@CameronFLeask](https://twitter.com/CameronFLeask) | |
 | [IntelliList - Shopping List](https://apps.apple.com/us/app/intellilist-shopping-list/id425278338) | [@mariozullo](https://twitter.com/mariozullo) | |
 | [Invoice.app](https://invoice.app) | [@PeteStojanowski](https://twitter.com/PeteStojanowski) | |
+| [IPTV - Streams](https://apps.apple.com/pt/app/iptv-streams/id1492179924?l=en) | [@andremartingo](https://twitter.com/andremartingo) | |
 | [Iron - Workout Tracker](https://apps.apple.com/de/app/iron-workout-tracker/id1479893244) | [@swiftkarim](https://twitter.com/swiftkarim) | |
 | [Jump Assistant](https://apps.apple.com/us/app/jump-assistant/id1381508841) | [@neilhiddink](https://twitter.com/neilhiddink) |Swift over Coffee|
 | [Juno](https://juno.sh) | [@alexstaravoitau](https://twitter.com/alexstaravoitau) | |
