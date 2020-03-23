@@ -146,6 +146,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
+| [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walford_east) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
 | [RailModeller Pro](https://www.railmodeller.com) | [@IsleOfTheKakapo](https://twitter.com/IsleOfTheKakapo) | |
 | [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
