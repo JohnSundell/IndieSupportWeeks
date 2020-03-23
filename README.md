@@ -158,12 +158,12 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Remove master for camera roll](https://apps.apple.com/us/app/remove-master-for-camera-roll/id792628362) | [@suniladhyaru](https://twitter.com/suniladhyaru) | |
 | [Ria Action Adventure](https://apps.apple.com/us/app/ria-action-adventure/id1463289104) | [@AlexKissiJr](https://twitter.com/AlexKissiJr) | |
 | [Robot Call Blocker](https://apps.apple.com/us/app/robot-call-blocker/id1437586931) | [@MurphyBrantley](https://twitter.com/MurphyBrantley) | |
-| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | A Swiftly Tilting Planet |
+| [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | A Swiftly Tilting Planet, Hacking with Swift |
 | [RunIn - Running Training](https://apps.apple.com/br/app/runin-running-training/id1421917327?l=en) | [@fnazarios](https://twitter.com/fnazarios) | |
 | [Salari](https://apps.apple.com/us/app/salari/id1475439249) | [@luispnez](https://twitter.com/luispnez) | |
 | [Samplist](https://apps.apple.com/us/app/samplist/id1347142920) | [@alexbuga](https://twitter.com/alexbuga) | |
 | [Screenie](https://www.thnkdev.com/Screenie) | [@jshchnz](https://twitter.com/jshchnz) | |
-| [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | |
+| [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
 | [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | |
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
 | [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
@@ -216,7 +216,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
 | [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
-| [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell |
+| [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift |
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
 | [WRD Scanner ](https://apps.apple.com/app/id1460167547) | [@dsteppenbeck](https://twitter.com/dsteppenbeck) | |
 
