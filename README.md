@@ -164,7 +164,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
 | [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
-| [SHOPIT](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
+| [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
