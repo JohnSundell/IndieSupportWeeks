@@ -240,7 +240,7 @@ Here are a few ways to help out:
 
 ### Why is this effort focused on indie developers in particular?
 
-While there are countless of people around the world facing hardships during the COVID-19 pandemic, every effort needs to focus on some form of target group. There are many people who need help right now, and no-one can do everything, but everyone can do *something*. This effort is a few creators/website hosts within the Apple Developer community doing *something*.
+While there are countless people around the world facing hardships during the COVID-19 pandemic, every effort needs to focus on some form of target group. There are many people who need help right now, and no-one can do everything, but everyone can do *something*. This effort is a few creators/website hosts within the Apple Developer community doing *something*.
 
 ### Is it guaranteed that the developers of the above apps are struggling financially?
 
