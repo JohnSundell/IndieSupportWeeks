@@ -107,7 +107,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Kiddo Cards: Letters, Numbers+](https://apps.apple.com/us/app/kiddo-cards-letters-numbers/id1490581456) | [@onlytruejustin](https://twitter.com/onlytruejustin) | |
 | [Learn Japanese: Sensei](https://apps.apple.com/app/id1495789984) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
 | [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
-| [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | |
+| [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell |
 | [MAGIC KIT Pro](https://apps.apple.com/us/app/magic-kit-pro-learn-perform/id1168450796) | [@MNLeatherbarrow](https://twitter.com/MNLeatherbarrow) | |
 | [Mame Cast](https://mamecast.com) | [@StayMing](https://twitter.com/StayMing) | |
 | [Meal Reminders](https://apps.apple.com/us/app/yes-you-can-meal-reminders/id1122768779) | [@PedroAnibarro](https://twitter.com/PedroAnibarro) | |
