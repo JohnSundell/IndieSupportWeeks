@@ -21,6 +21,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Swiftjective-C](https://www.swiftjectivec.com)
 - [The.Swift.Dev.](https://theswiftdev.com)
 - [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
+- [Ordinary Coding](https://ordinarycoding.com/)
 
 ## How to join the effort
 
@@ -191,7 +192,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Supercharger map for Tesla](https://apps.apple.com/us/app/superchargeurs-pour-tesla/id1471481469) | [@t3ix](https://twitter.com/t3ix) | |
 | [SVG Assets – Icon Exporter](https://apps.apple.com/us/app/svg-assets-icon-exporter/id1473747723) | [@neriusv](https://twitter.com/neriusv) | |
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
-| [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) | |
+| [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) |Ordinary Coding|
 | [Sundial](https://sundialapp.com) | [@t9mike](https://twitter.com/t9mike) | |
 | [Super Easy Timer](https://apps.apple.com/us/app/super-easy-timer/id1353137878) | [@PaulSolt](https://twitter.com/PaulSolt) | |
 | [TalkJot – Voice-to-Email Notes](https://talkjot.co) | [@ATORKO_](https://twitter.com/ATORKO_) | |
