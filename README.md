@@ -112,6 +112,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Kalkyl](https://apps.apple.com/app/id519933025) | [@a_joensson](https://twitter.com/a_joensson) | |
 | [Kana - Hiragana and Katakana](https://apps.apple.com/app/id1454200955) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
 | [Kiddo Cards: Letters, Numbers+](https://apps.apple.com/us/app/kiddo-cards-letters-numbers/id1490581456) | [@onlytruejustin](https://twitter.com/onlytruejustin) | |
+| [Killa Komets](https://apps.apple.com/gb/app/killa-komets/id1426722654) | [@DannyJohnLaw](https://twitter.com/DannyJohnLaw) | |
 | [Learn Japanese: Sensei](https://apps.apple.com/app/id1495789984) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
 | [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell |
