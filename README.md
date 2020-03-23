@@ -69,7 +69,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
-| [Crouton: Cooking Companion](https://apps.apple.com/us/app/crouton-cooking-companion/id1461650987) | [@JustMeDevin](https://twitter.com/JustMeDevin) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
