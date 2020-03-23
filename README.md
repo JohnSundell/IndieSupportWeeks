@@ -171,9 +171,9 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | |
-| [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
+| [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
 | [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) | |
 | [SmartCards+ Spaced Repetition](https://apps.apple.com/app/apple-store/id1210521987) | [@joeleblanc](https://twitter.com/joeleblanc) | |
 | [Smartrips](https://apps.apple.com/app/smartrips/id1479048773) | [@EliasEsquivelM](https://twitter.com/EliasEsquivelM) | |
