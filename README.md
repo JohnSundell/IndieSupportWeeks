@@ -18,6 +18,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [SwiftLee](https://www.avanderlee.com)
 - [Hacking with Swift](https://www.hackingwithswift.com)
 - [The Swift over Coffee Podcast](https://anchor.fm/swiftovercoffee)
+- [Swiftjective-C](https://www.swiftjectivec.com)
 
 ## How to join the effort
 
@@ -69,7 +70,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
-| [Crouton: Cooking Companion](https://apps.apple.com/us/app/crouton-cooking-companion/id1461650987) | [@JustMeDevin](https://twitter.com/JustMeDevin) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
@@ -208,7 +208,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
 | [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | |
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
-| [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | |
+| [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
 | [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell |
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
