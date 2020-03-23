@@ -171,6 +171,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | |
+| [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) | |
