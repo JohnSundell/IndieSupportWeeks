@@ -67,6 +67,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CodeKit](https://codekitapp.com) | [@bdkjones](https://twitter.com/bdkjones) | |
 | [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | |
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
+| [Contacts Journal CRM](https://itunes.apple.com/us/app/contacts-journal-crm-professional/id327685977) | [@zulfishah](https://twitter.com/zulfishah) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
