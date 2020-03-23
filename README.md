@@ -137,7 +137,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
 | [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
-| [Nowte - Notes Quick Share](https://apps.apple.com/app/nowte/id1495689849) | [@ArtsiomBolatau](https://twitter.com/ArtsiomBolatau) | |
 | [Overdue: Safety Check In](https://apps.apple.com/us/app/overdue-safety-check-in/id1493718581) | [@Jax_Evans](https://twitter.com/Jax_Evans) | |
 | [PackCheck Packing List](https://apps.apple.com/us/app/packcheck/id1245320168) | [@murraysagal](https://twitter.com/murraysagal) | |
 | [Panorama X](http://www.provue.com) | [@provuejim](https://twitter.com/provuejim) | |
