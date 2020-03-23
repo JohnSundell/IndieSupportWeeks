@@ -16,6 +16,8 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [The Swift Weekly Brief](https://swiftweekly.github.io)
 - [Donny Wals](https://www.donnywals.com)
 - [SwiftLee](https://www.avanderlee.com)
+- [Hacking with Swift](https://www.hackingwithswift.com)
+- [The Swift over Coffee Podcast](https://anchor.fm/swiftovercoffee)
 
 ## How to join the effort
 
@@ -42,19 +44,19 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | --- | --------------------------- | ------------ |
 | [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | |
 | [ActivityChamp: Watch & Track](https://apps.apple.com/us/app/activitychamp/id1481461808) | [@baduxdaniel](https://twitter.com/baduxdaniel) | |
-| [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) | |
+| [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift|
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | |
-| [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) | |
+| [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | |
-| [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | |
+| [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | |
 | [Bill Organizer by Money Master](https://apps.apple.com/us/app/bill-organizer-by-money-master/id1358119874) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Book Track](https://simonemontalto.com/projects/book-track) | [@BookTrackApp](https://twitter.com/BookTrackApp) | |
 | [BuildCores: PC Parts & Builds](https://apps.apple.com/us/app/buildcores-pc-parts-builds/id1441971434) | [@KahlonHarshdeep](https://twitter.com/KahlonHarshdeep) | |
 | [CardPointers for Credit Cards](https://apps.apple.com/us/app/cardpointers/id1472875808) | [@emcro](https://twitter.com/emcro) | |
-| [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) | |
+| [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) |Hacking with Swift|
 | [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
 | [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | |
@@ -81,7 +83,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | |
-| [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) | |
+| [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee|
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
@@ -98,7 +100,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [IntelliList - Shopping List](https://apps.apple.com/us/app/intellilist-shopping-list/id425278338) | [@mariozullo](https://twitter.com/mariozullo) | |
 | [Invoice.app](https://invoice.app) | [@PeteStojanowski](https://twitter.com/PeteStojanowski) | |
 | [Iron - Workout Tracker](https://apps.apple.com/de/app/iron-workout-tracker/id1479893244) | [@swiftkarim](https://twitter.com/swiftkarim) | |
-| [Jump Assistant](https://apps.apple.com/us/app/jump-assistant/id1381508841) | [@neilhiddink](https://twitter.com/neilhiddink) | |
+| [Jump Assistant](https://apps.apple.com/us/app/jump-assistant/id1381508841) | [@neilhiddink](https://twitter.com/neilhiddink) |Swift over Coffee|
 | [Juno](https://juno.sh) | [@alexstaravoitau](https://twitter.com/alexstaravoitau) | |
 | [Kalkyl](https://apps.apple.com/app/id519933025) | [@a_joensson](https://twitter.com/a_joensson) | |
 | [Kana - Hiragana and Katakana](https://apps.apple.com/app/id1454200955) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
@@ -138,7 +140,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [PLYR](https://www.plyr.app) | [@chih98](https://twitter.com/chih98) | |
 | [Pocketdex for Pokémon GO](https://apps.apple.com/ca/app/pocketdex-for-pokémon-go/id1255564898) | [@Surenix](https://twitter.com/Surenix) | |
 | [Poly - Bouncy Ball 3D](https://apps.apple.com/app/id1464322679) | [@deniskako_](https://twitter.com/deniskako_) | |
-| [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
+| [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
