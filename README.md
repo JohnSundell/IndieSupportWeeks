@@ -233,7 +233,7 @@ See the [“How to join the effort” section](#how-to-join-the-effort).
 
 ### Can I participate in this effort outside of the main two weeks?
 
-Of course, pariticpate however you’d like. The more we can help the indies within our community, the better. It’s just that this coordinated effort will happen during those two weeks.
+Of course, participate however you’d like. The more we can help the indies within our community, the better. It’s just that this coordinated effort will happen during those two weeks.
 
 ### I’m not running a website or anything like that, but would still like to help out. How can I do that?
 
