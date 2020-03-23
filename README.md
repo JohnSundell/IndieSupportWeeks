@@ -122,6 +122,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
+| [Motto](https://apps.apple.com/us/app/motto/id1207069861) | [@jomafer86](https://twitter.com/jomafer86) | |
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) | |
