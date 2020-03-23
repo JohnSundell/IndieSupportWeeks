@@ -19,6 +19,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Hacking with Swift](https://www.hackingwithswift.com)
 - [The Swift over Coffee Podcast](https://anchor.fm/swiftovercoffee)
 - [Swiftjective-C](https://www.swiftjectivec.com)
+- [The.Swift.Dev.](https://theswiftdev.com)
 - [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
 
 ## How to join the effort
