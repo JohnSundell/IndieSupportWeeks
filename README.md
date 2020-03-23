@@ -69,7 +69,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
 | [Crouton: Cooking Companion](https://apps.apple.com/us/app/crouton-cooking-companion/id1461650987) | [@JustMeDevin](https://twitter.com/JustMeDevin) | |
-| [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | |
+| [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
