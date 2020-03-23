@@ -59,7 +59,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) |Hacking with Swift|
 | [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
-| [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | |
+| [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | Swift by Sundell |
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
 | [Circuitry - 3D Circuit Builder](https://apps.apple.com/us/app/circuitry-3d-circuit-builder/id1476733898) | [@n_crda](https://twitter.com/n_crda) | |
 | [Cleora](https://apps.apple.com/app/cleora/id1497821000) | [@natpanferova](https://twitter.com/natpanferova) | |
@@ -83,7 +83,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | |
-| [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee|
+| [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) | Swift over Coffee, Swift by Sundell |
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
