@@ -81,11 +81,13 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
 | [Diagram.Codes Studio](https://studio.diagram.codes) | [@hugozap](https://twitter.com/hugozap) | |
+| [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
 | [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | |
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
 | [EBook Library: Easy PDF reader](https://apps.apple.com/us/app/ebook-library/id1482315390) | [@JJAllenTech](https://twitter.com/JJAllenTech) | |
+| [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
