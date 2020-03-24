@@ -222,7 +222,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [SVG Assets – Icon Exporter](https://apps.apple.com/us/app/svg-assets-icon-exporter/id1473747723) | [@neriusv](https://twitter.com/neriusv) | |
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
 | [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) |Ordinary Coding|
-| [Sundial](https://sundialapp.com) | [@t9mike](https://twitter.com/t9mike) | |
+| [Sundial](https://sundialapp.com) | [@t9mike](https://twitter.com/t9mike) | Swift Weekly Brief |
 | [Super Easy Timer](https://apps.apple.com/us/app/super-easy-timer/id1353137878) | [@PaulSolt](https://twitter.com/PaulSolt) | Code With Chris |
 | [TalkJot – Voice-to-Email Notes](https://talkjot.co) | [@ATORKO_](https://twitter.com/ATORKO_) | |
 | [Tap Forms](https://www.tapforms.com) | [@tapforms](https://twitter.com/tapforms) | |
