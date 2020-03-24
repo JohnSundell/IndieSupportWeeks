@@ -201,10 +201,10 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
-| [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) | |
+| [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) |Swift over Coffee|
 | [SmartCards+ Spaced Repetition](https://apps.apple.com/app/apple-store/id1210521987) | [@joeleblanc](https://twitter.com/joeleblanc) | |
 | [Smartrips](https://apps.apple.com/app/smartrips/id1479048773) | [@EliasEsquivelM](https://twitter.com/EliasEsquivelM) | |
-| [Snapthread](https://itunes.apple.com/app/id1277445843) | [@bhansmeyer](https://twitter.com/bhansmeyer) | |
+| [Snapthread](https://itunes.apple.com/app/id1277445843) | [@bhansmeyer](https://twitter.com/bhansmeyer) |Hacking with Swift|
 | [Snipline](https://snipline.io) | [@mitchartemis](https://twitter.com/mitchartemis) | |
 | [Socialite](https://socialiteapp.com) | [@jacobgorban](https://twitter.com/jacobgorban) | |
 | [SolarWatch Sunrise Sunset Time](https://apps.apple.com/de/app/solar-watch-sunrise-sunset/id1191365122) | [@ekurutepe](https://twitter.com/ekurutepe) | |
@@ -217,7 +217,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [SquareSynth](http://www.sonickitten.com/squaresynth) | [@DrumSessionss](https://twitter.com/DrumSessionss) | |
 | [SUBWAY:NYC - Map + Train Times](https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484) | [@elliot_schrock](https://twitter.com/elliot_schrock) | |
 | [Sticker Maker • Creator Studio](https://apps.apple.com/br/app/sticker-maker-creator-studio/id1452023223) | [@honda_willian](https://twitter.com/honda_willian) | |
-| [StudIO - Code](https://studiocode.app) | [@arthur_guiot](https://twitter.com/arthur_guiot) | |
+| [StudIO - Code](https://studiocode.app) | [@arthur_guiot](https://twitter.com/arthur_guiot) |Hacking with Swift|
 | [Supercharger map for Tesla](https://apps.apple.com/us/app/superchargeurs-pour-tesla/id1471481469) | [@t3ix](https://twitter.com/t3ix) | |
 | [SVG Assets – Icon Exporter](https://apps.apple.com/us/app/svg-assets-icon-exporter/id1473747723) | [@neriusv](https://twitter.com/neriusv) | |
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
