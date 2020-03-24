@@ -195,6 +195,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [SquareSynth](http://www.sonickitten.com/squaresynth) | [@DrumSessionss](https://twitter.com/DrumSessionss) | |
 | [SUBWAY:NYC - Map + Train Times](https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484) | [@elliot_schrock](https://twitter.com/elliot_schrock) | |
 | [Sticker Maker • Creator Studio](https://apps.apple.com/br/app/sticker-maker-creator-studio/id1452023223) | [@honda_willian](https://twitter.com/honda_willian) | |
+| [StudIO - Code](https://studiocode.app) | [@arthur_guiot](https://twitter.com/arthur_guiot) | |
 | [Supercharger map for Tesla](https://apps.apple.com/us/app/superchargeurs-pour-tesla/id1471481469) | [@t3ix](https://twitter.com/t3ix) | |
 | [SVG Assets – Icon Exporter](https://apps.apple.com/us/app/svg-assets-icon-exporter/id1473747723) | [@neriusv](https://twitter.com/neriusv) | |
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
