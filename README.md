@@ -26,6 +26,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Marin Todorov](https://twitter.com/icanzilb)
 - [Ohmyswift](https://ohmyswift.com)
 - [Ashish Kakkad](https://ashishkakkad.com)
+- [Code With Chris](https://codewithchris.com)
 
 ## How to join the effort
 
@@ -51,7 +52,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 
 | App | Developer’s Twitter account | Promoted by |
 | --- | --------------------------- | ------------ |
-| [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | Sean Allen |
+| [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | Sean Allen, Code With Chris |
 | [ActivityChamp: Watch & Track](https://apps.apple.com/us/app/activitychamp/id1481461808) | [@baduxdaniel](https://twitter.com/baduxdaniel) | |
 | [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen|
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
@@ -127,7 +128,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Kiddo Cards: Letters, Numbers+](https://apps.apple.com/us/app/kiddo-cards-letters-numbers/id1490581456) | [@onlytruejustin](https://twitter.com/onlytruejustin) | |
 | [Killa Komets](https://apps.apple.com/gb/app/killa-komets/id1426722654) | [@DannyJohnLaw](https://twitter.com/DannyJohnLaw) | |
 | [Learn Japanese: Sensei](https://apps.apple.com/app/id1495789984) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
-| [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
+| [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | Code With Chris |
 | [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell |
 | [MAGIC KIT Pro](https://apps.apple.com/us/app/magic-kit-pro-learn-perform/id1168450796) | [@MNLeatherbarrow](https://twitter.com/MNLeatherbarrow) | |
 | [Mame Cast](https://mamecast.com) | [@StayMing](https://twitter.com/StayMing) | |
@@ -177,7 +178,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walford_east) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
 | [RailModeller Pro](https://www.railmodeller.com) | [@IsleOfTheKakapo](https://twitter.com/IsleOfTheKakapo) | |
-| [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
+| [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | Code With Chris |
 | [reDraw Whiteboard](https://apps.apple.com/us/app/redraw-whiteboard/id1114820588) | [@davereed](https://twitter.com/davereed) | |
 | [Reflow](https://reflow.app) | [@sebbourgeois](https://twitter.com/sebbourgeois) | |
 | [Remove master for camera roll](https://apps.apple.com/us/app/remove-master-for-camera-roll/id792628362) | [@suniladhyaru](https://twitter.com/suniladhyaru) | |
@@ -194,7 +195,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
-| [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
+| [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | Code With Chris |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
@@ -221,7 +222,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
 | [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) |Ordinary Coding|
 | [Sundial](https://sundialapp.com) | [@t9mike](https://twitter.com/t9mike) | |
-| [Super Easy Timer](https://apps.apple.com/us/app/super-easy-timer/id1353137878) | [@PaulSolt](https://twitter.com/PaulSolt) | |
+| [Super Easy Timer](https://apps.apple.com/us/app/super-easy-timer/id1353137878) | [@PaulSolt](https://twitter.com/PaulSolt) | Code With Chris |
 | [TalkJot – Voice-to-Email Notes](https://talkjot.co) | [@ATORKO_](https://twitter.com/ATORKO_) | |
 | [Tap Forms](https://www.tapforms.com) | [@tapforms](https://twitter.com/tapforms) | |
 | [Taskmator - TaskPaper Client](https://apps.apple.com/us/app/taskmator-taskpaper-compatible/id806250172) | [@Taskmator](https://twitter.com/Taskmator) | |
@@ -230,21 +231,21 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
 | [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | |
-| [Timeless Meditation](https://apps.apple.com/us/app/timeless-meditation/id1183067514) | [@arthurofbabylon](https://twitter.com/arthurofbabylon) | |
+| [Timeless Meditation](https://apps.apple.com/us/app/timeless-meditation/id1183067514) | [@arthurofbabylon](https://twitter.com/arthurofbabylon) | Code With Chris |
 | [Timemator](https://timemator.com) | [@sebakotiv](https://twitter.com/sebakotiv) | |
 | [Together Family Video Chat](https://apps.apple.com/us/app/together-family-video-chat/id1405515604) | [@echamussy](https://twitter.com/echamussy) | |
 | [TokeiTango](https://apps.apple.com/us/app/tokeitango/id1492526803) | [@tokeitango](https://twitter.com/tokeitango) | |
 | [Train Beacon](https://www.trainbeacon.co.uk) | [@mobile_appz](https://twitter.com/mobile_appz) | |
 | [Treeceps: Fitness Workout Game](https://apps.apple.com/app/id1406465670) | [@JoeWaldow](https://twitter.com/JoeWaldow) | |
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
-| [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | |
+| [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
 | [Water & Coffee](https://apps.apple.com/us/app/water-coffee/id1475423483) | [@NickFoster56](https://twitter.com/NickFoster56) | |
 | [WeatherGO - Temperature App](https://apps.apple.com/us/app/weathergo-temperature-app/id1271073320) | [@Piazza_Chris](https://twitter.com/Piazza_Chris) | |
 | [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
-| [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | |
+| [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | Code With Chris |
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
 | [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
 | [When Do - A Complication](https://apps.apple.com/us/app/when-do-a-complication/id1485413076) | [@AndrewCodeChimp](https://twitter.com/AndrewCodeChimp) | |
