@@ -23,6 +23,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
 - [Ordinary Coding](https://ordinarycoding.com/)
 - [Launched](https://launchedfm.com)
+- [Marin Todorov](https://twitter.com/icanzilb)
 
 ## How to join the effort
 
@@ -33,6 +34,7 @@ However, if you’d like to more “formally” join this effort, then here’s 
 1. Add a link to your website/channel above, under [“Participating partners”](#participating-partners).
 2. Pick a few apps that you’d like to promote, and mark them by filling in your website/channel’s name within the “Promoted by” column in the table below.
 3. Anytime during the 30th of March and the 12th of April, promote your selected apps on your website/channel, in any way you’d like. You could, for example, replace any ads that you’re normally running with links to your selected indie apps, post reviews of them, or just talk about them in a podcast or video. It’s all up to you!
+4. If the platform of your choice includes tagging, please use the `#IndieSupportWeeks` tag to increase discoverability and reach.
 
 You **do not** need to credit John, Swift by Sundell, or any other person/entity while taking part in this effort. Simply mentioning that you’re participating in *Indie Support Weeks* and linking to this repo is more than enough, and even that is not required.
 
@@ -63,7 +65,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [BuildCores: PC Parts & Builds](https://apps.apple.com/us/app/buildcores-pc-parts-builds/id1441971434) | [@KahlonHarshdeep](https://twitter.com/KahlonHarshdeep) | |
 | [CardPointers for Credit Cards](https://apps.apple.com/us/app/cardpointers/id1472875808) | [@emcro](https://twitter.com/emcro) | |
 | [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) |Hacking with Swift|
-| [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | |
+| [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | Marin Todorov |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
 | [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | Swift by Sundell |
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
@@ -179,7 +181,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | |
-| [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | |
+| [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
@@ -192,7 +194,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Soor](https://soor.app) | [@tanmays](https://twitter.com/tanmays) | |
 | [Sudeb](https://apps.apple.com/us/app/sudeb/id1494667688) | [@sudebapp](https://twitter.com/sudebapp) | |
 | [Spark Camera & Video Editor](https://apps.apple.com/us/app/spark-camera-video-editor/id1133670954) | [@dyah10](https://twitter.com/dyah10) | |
-| [Sparkle](https://sparkleapp.com) | [@duncanwilcox](https://twitter.com/duncanwilcox) | |
+| [Sparkle](https://sparkleapp.com) | [@duncanwilcox](https://twitter.com/duncanwilcox) | Marin Todorov |
 | [SquareSynth](http://www.sonickitten.com/squaresynth) | [@DrumSessionss](https://twitter.com/DrumSessionss) | |
 | [SUBWAY:NYC - Map + Train Times](https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484) | [@elliot_schrock](https://twitter.com/elliot_schrock) | |
 | [Sticker Maker • Creator Studio](https://apps.apple.com/br/app/sticker-maker-creator-studio/id1452023223) | [@honda_willian](https://twitter.com/honda_willian) | |
