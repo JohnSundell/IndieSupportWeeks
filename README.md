@@ -40,7 +40,7 @@ You **do not** need to credit John, Swift by Sundell, or any other person/entity
 
 ## Apps
 
-The following list of apps was gathered by [John Sundell](https://twitter.com/johnsundell) based on Direct Messages from indie developers, prompted by [this tweet](https://twitter.com/johnsundell/status/1240642670688698368). Note that this list is just based on raw data, and is presented as-is — no quality checks have been made, and it is possible that the list contains incorrect information.
+The following list of apps was gathered by [John Sundell](https://twitter.com/johnsundell) based on Direct Messages from indie developers, prompted by [this tweet](https://twitter.com/johnsundell/status/1240642670688698368), as well as Pull Requests submitted by the community. Note that this list is just based on raw data, and is presented as-is — no quality checks have been made, and it is possible that the list contains incorrect information.
 
 If you’re participating in *Indie Support Weeks* and want to help promote some of these apps, it’s recommended that you first:
 
@@ -282,7 +282,7 @@ While there are countless people around the world facing hardships during the CO
 
 ### Is it guaranteed that the developers of the above apps are struggling financially?
 
-No, not at all. The above list was simply compiled from Twitter messages from developers themselves, and hasn’t been filtered. The [original tweet](https://twitter.com/johnsundell/status/1240642670688698368) prompting developers to submit their apps explicitly mentioned *“indie devs [that] are suffering from lower sales/income because of the current situation”*, but at the end of the day, we have to take these developers at their word.
+No, not at all. The above list was simply compiled from Twitter messages from developers themselves, as well as from Pull Requests submitted by the community, and hasn’t been filtered. The [original tweet](https://twitter.com/johnsundell/status/1240642670688698368) prompting developers to submit their apps explicitly mentioned *“indie devs [that] are suffering from lower sales/income because of the current situation”*, but at the end of the day, we have to take people at their word.
 
 ### I’m an indie developer who could use some support, how do I add my app?
 
