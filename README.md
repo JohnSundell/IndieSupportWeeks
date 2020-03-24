@@ -147,6 +147,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Panorama X](http://www.provue.com) | [@provuejim](https://twitter.com/provuejim) | |
 | [Pasta](https://getpasta.com) | [@wessley](https://twitter.com/wessley) | |
 | [Pauses](https://apps.apple.com/ca/app/pauses/id481375590) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
+| [PDF Archiver](https://apps.apple.com/app/apple-store/id1433801905?pt=118993774&ct=support&mt=8) | [@JuKa1205](https://twitter.com/juka1205) | |
 | [PDFs Split & Merge](https://apps.apple.com/us/app/pdfs-split-merge/id1393839510) | [@zen_prog](https://twitter.com/zen_prog) | |
 | [Pennant](https://apps.apple.com/us/app/id622463230) | [@thillsman](https://twitter.com/thillsman) |Launched|
 | [Pinc - Manage Pin & Pass Codes](https://apps.apple.com/us/app/pinc-pin-code-helper/id1453881159) | [@pinc_app](https://twitter.com/pinc_app) | |
