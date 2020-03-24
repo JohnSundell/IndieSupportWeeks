@@ -25,6 +25,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Launched](https://launchedfm.com)
 - [Marin Todorov](https://twitter.com/icanzilb)
 - [Ohmyswift](https://ohmyswift.com)
+- [Ashish Kakkad](https://ashishkakkad.com)
 
 ## How to join the effort
 
@@ -55,7 +56,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen|
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
-| [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | |
+| [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
@@ -73,7 +74,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Circuitry - 3D Circuit Builder](https://apps.apple.com/us/app/circuitry-3d-circuit-builder/id1476733898) | [@n_crda](https://twitter.com/n_crda) | |
 | [Cleora](https://apps.apple.com/app/cleora/id1497821000) | [@natpanferova](https://twitter.com/natpanferova) | |
 | [CodeKit](https://codekitapp.com) | [@bdkjones](https://twitter.com/bdkjones) | Donny Wals |
-| [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | |
+| [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | Ashish Kakkad |
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
 | [Contacts Journal CRM](https://itunes.apple.com/us/app/contacts-journal-crm-professional/id327685977) | [@zulfishah](https://twitter.com/zulfishah) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
@@ -97,7 +98,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
-| [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | |
+| [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | Ashish Kakkad |
 | [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee, Swift by Sundell, Sean Allen |
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
