@@ -191,7 +191,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Samplist](https://apps.apple.com/us/app/samplist/id1347142920) | [@alexbuga](https://twitter.com/alexbuga) | |
 | [Screenie](https://www.thnkdev.com/Screenie) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
-| [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | |
+| [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | Swift Weekly Brief |
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
 | [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
