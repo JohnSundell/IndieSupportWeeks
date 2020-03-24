@@ -145,6 +145,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
 | [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
+| [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) | [@netsnips](https://twitter.com/netsnips) | |
 | [NewsWave: RSS Feed Reader](https://apps.apple.com/us/app/newswave/id1373172727) | [@MarcMasVi](https://twitter.com/MarcMasVi) | |
 | [NFC for iPhone](https://apps.apple.com/app/id1249686798) | [@N1C0_MUC](https://twitter.com/N1C0_MUC) | |
 | [Nighthawk](https://nighthawk.app) | [@samhenrigold](https://twitter.com/samhenrigold) | |
@@ -222,6 +223,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Tap Forms](https://www.tapforms.com) | [@tapforms](https://twitter.com/tapforms) | |
 | [Taskmator - TaskPaper Client](https://apps.apple.com/us/app/taskmator-taskpaper-compatible/id806250172) | [@Taskmator](https://twitter.com/Taskmator) | |
 | [Tempo for Runners](https://apps.apple.com/app/id1106746589) | [@rmatta](https://twitter.com/rmatta) | |
+| [Thirstic - Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) | [@thirstic](https://twitter.com/thirstic) | |
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
 | [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | |
