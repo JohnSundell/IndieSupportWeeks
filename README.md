@@ -26,7 +26,6 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Marin Todorov](https://twitter.com/icanzilb)
 - [Ohmyswift](https://ohmyswift.com)
 
-
 ## How to join the effort
 
 Anyone is more than welcome to join this effort, and doing so is simple. You don’t *actually* have to do anything in particular — the simplest way to help out is to just pick an indie app that you like from the below list, and promote it! You’re completely free to participate however you’d like.
