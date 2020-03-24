@@ -103,6 +103,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
 | [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | Donny Wals |
 | [Gradient Game](https://apps.apple.com/us/app/gradients-game/id1479784361) | [@rudrankriyam](https://twitter.com/rudrankriyam) | Donny Wals |
+| [guitλR - practice smλrter](https://apps.apple.com/de/app/guitλr/id1492558099) | [@schipkowski](https://twitter.com/schipkowski) | Hubert Schipkowski |
 | [HazeOver — Distraction Dimmer™ for Mac](https://hazeover.com) | [@pointum](https://twitter.com/pointum) | |
 | [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514) | [@slizeray](https://twitter.com/slizeray) | |
 | [Helvault - MTG Card Scanner](https://apps.apple.com/br/app/helvault-mtg-card-scanner/id1466963201) | [@vitorcesco](https://twitter.com/vitorcesco) | |
