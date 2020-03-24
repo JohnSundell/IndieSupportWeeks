@@ -24,6 +24,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Ordinary Coding](https://ordinarycoding.com/)
 - [Launched](https://launchedfm.com)
 - [Marin Todorov](https://twitter.com/icanzilb)
+- [Ohmyswift](https://ohmyswift.com)
 
 ## How to join the effort
 
