@@ -231,7 +231,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Thirstic - Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) | [@thirstic](https://twitter.com/thirstic) | |
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
-| [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | |
+| [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | Swift Weekly Brief |
 | [Timeless Meditation](https://apps.apple.com/us/app/timeless-meditation/id1183067514) | [@arthurofbabylon](https://twitter.com/arthurofbabylon) | Code With Chris |
 | [Timemator](https://timemator.com) | [@sebakotiv](https://twitter.com/sebakotiv) | |
 | [Together Family Video Chat](https://apps.apple.com/us/app/together-family-video-chat/id1405515604) | [@echamussy](https://twitter.com/echamussy) | |
