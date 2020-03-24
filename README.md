@@ -84,7 +84,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
-| [Diagrams](https://diagrams.app) | [@lukaskubanek](https://twitter.com/lukaskubanek) | |
+| [Diagrams](https://diagrams.app) | [@lukaskubanek](https://twitter.com/lukaskubanek) | Swift by Sundell |
 | [Diagram.Codes Studio](https://studio.diagram.codes) | [@hugozap](https://twitter.com/hugozap) | |
 | [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
