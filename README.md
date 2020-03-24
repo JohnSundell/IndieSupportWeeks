@@ -68,6 +68,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | Marin Todorov |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
 | [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | Swift by Sundell |
+| [Chime](https://www.chimehq.com) | [@mattie](https://twitter.com/mattie) | |
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
 | [Circuitry - 3D Circuit Builder](https://apps.apple.com/us/app/circuitry-3d-circuit-builder/id1476733898) | [@n_crda](https://twitter.com/n_crda) | |
 | [Cleora](https://apps.apple.com/app/cleora/id1497821000) | [@natpanferova](https://twitter.com/natpanferova) | |
@@ -83,6 +84,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
+| [Diagrams](https://diagrams.app) | [@lukaskubanek](https://twitter.com/lukaskubanek) | |
 | [Diagram.Codes Studio](https://studio.diagram.codes) | [@hugozap](https://twitter.com/hugozap) | |
 | [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
@@ -127,6 +129,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell |
 | [MAGIC KIT Pro](https://apps.apple.com/us/app/magic-kit-pro-learn-perform/id1168450796) | [@MNLeatherbarrow](https://twitter.com/MNLeatherbarrow) | |
 | [Mame Cast](https://mamecast.com) | [@StayMing](https://twitter.com/StayMing) | |
+| [Mate Translate](https://gikken.co/mate-translate/) | [@GikkenHQ](https://twitter.com/GikkenHQ) | |
 | [Meal Reminders](https://apps.apple.com/us/app/yes-you-can-meal-reminders/id1122768779) | [@PedroAnibarro](https://twitter.com/PedroAnibarro) | |
 | [Metronomics Metronome](https://apps.apple.com/us/app/metronomics-metronome/id435393098) | [@jnpdx](https://twitter.com/jnpdx) | |
 | [Mexican Train Dominoes](https://apps.apple.com/us/app/mexican-train-dominoes/id507291922) | [@MexicanTrainDom](https://twitter.com/MexicanTrainDom) | |
@@ -139,6 +142,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) | |
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
+| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NewsWave: RSS Feed Reader](https://apps.apple.com/us/app/newswave/id1373172727) | [@MarcMasVi](https://twitter.com/MarcMasVi) | |
 | [NFC for iPhone](https://apps.apple.com/app/id1249686798) | [@N1C0_MUC](https://twitter.com/N1C0_MUC) | |
@@ -146,6 +150,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) | [@chrisvasselli](https://twitter.com/chrisvasselli) | |
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
 | [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | |
+| [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
 | [Overdue: Safety Check In](https://apps.apple.com/us/app/overdue-safety-check-in/id1493718581) | [@Jax_Evans](https://twitter.com/Jax_Evans) | |
 | [PackCheck Packing List](https://apps.apple.com/us/app/packcheck/id1245320168) | [@murraysagal](https://twitter.com/murraysagal) | |
@@ -161,6 +166,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Pocketdex for Pokémon GO](https://apps.apple.com/ca/app/pocketdex-for-pokémon-go/id1255564898) | [@Surenix](https://twitter.com/Surenix) | |
 | [Poly - Bouncy Ball 3D](https://apps.apple.com/app/id1464322679) | [@deniskako_](https://twitter.com/deniskako_) | |
 | [ProTracker Calorie Diet & Keto](https://apps.apple.com/ca/app/protracker-calorie-diet-keto/id587922128) | [@protrackerapp](https://twitter.com/ProTrackerApp) | |
+| [Proxyman](https://proxyman.io) | [@_nghiatran](https://twitter.com/_nghiatran) | |
 | [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
 | [Pushever - APNS Tester](https://pushever.app) | [@soulchildpls](https://twitter.com/soulchildpls) | |
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
@@ -195,6 +201,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Smartrips](https://apps.apple.com/app/smartrips/id1479048773) | [@EliasEsquivelM](https://twitter.com/EliasEsquivelM) | |
 | [Snipline](https://snipline.io) | [@mitchartemis](https://twitter.com/mitchartemis) | |
 | [SolarWatch Sunrise Sunset Time](https://apps.apple.com/de/app/solar-watch-sunrise-sunset/id1191365122) | [@ekurutepe](https://twitter.com/ekurutepe) | |
+| [Soulver](https://soulver.app) | [@zac_coh](https://twitter.com/zac_coh) | |
 | [SongSheet Pro - Chord Charts](https://apps.apple.com/au/app/songsheet-pro-chord-charts/id581094194) | [@GabrielHauber](https://twitter.com/GabrielHauber) | |
 | [Soor](https://soor.app) | [@tanmays](https://twitter.com/tanmays) | |
 | [Sudeb](https://apps.apple.com/us/app/sudeb/id1494667688) | [@sudebapp](https://twitter.com/sudebapp) | |
