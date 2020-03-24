@@ -69,7 +69,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | Marin Todorov |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
 | [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | Swift by Sundell |
-| [Chime](https://www.chimehq.com) | [@mattie](https://twitter.com/mattie) | |
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
 | [Circuitry - 3D Circuit Builder](https://apps.apple.com/us/app/circuitry-3d-circuit-builder/id1476733898) | [@n_crda](https://twitter.com/n_crda) | |
 | [Cleora](https://apps.apple.com/app/cleora/id1497821000) | [@natpanferova](https://twitter.com/natpanferova) | |
