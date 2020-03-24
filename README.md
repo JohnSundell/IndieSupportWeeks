@@ -113,6 +113,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Highlighted: Book Highlighter](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [@stuhecdamir](https://twitter.com/stuhecdamir) | |
 | [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | |
 | [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
+| [HTTPBot - REST Client](https://itunes.apple.com/us/app/httpbot/id1232603544) | [@arvindhsukumar](https://twitter.com/arvindhsukumar) | |
 | [Huh? Dictionary](https://apps.apple.com/app/id1330097506) | [@yaapete](https://twitter.com/yaapete) | |
 | [iFont: find, install any font](https://apps.apple.com/gb/app/ifont-find-install-any-font/id1173222289) | [@CameronFLeask](https://twitter.com/CameronFLeask) | |
 | [IntelliList - Shopping List](https://apps.apple.com/us/app/intellilist-shopping-list/id425278338) | [@mariozullo](https://twitter.com/mariozullo) | |
@@ -200,6 +201,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) | |
 | [SmartCards+ Spaced Repetition](https://apps.apple.com/app/apple-store/id1210521987) | [@joeleblanc](https://twitter.com/joeleblanc) | |
 | [Smartrips](https://apps.apple.com/app/smartrips/id1479048773) | [@EliasEsquivelM](https://twitter.com/EliasEsquivelM) | |
+| [Snapthread](https://itunes.apple.com/app/id1277445843) | [@bhansmeyer](https://twitter.com/bhansmeyer) | |
 | [Snipline](https://snipline.io) | [@mitchartemis](https://twitter.com/mitchartemis) | |
 | [Socialite](https://socialiteapp.com) | [@jacobgorban](https://twitter.com/jacobgorban) | |
 | [SolarWatch Sunrise Sunset Time](https://apps.apple.com/de/app/solar-watch-sunrise-sunset/id1191365122) | [@ekurutepe](https://twitter.com/ekurutepe) | |
