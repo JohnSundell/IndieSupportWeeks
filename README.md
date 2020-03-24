@@ -143,6 +143,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) | |
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
 | [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
+| [Neo Path - a Neomorphistic Hyper Casual Game!](https://apps.apple.com/app/neo-path/id1502487720) | [@NeoPathGame](https://twitter.com/NeoPathGame) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) | [@netsnips](https://twitter.com/netsnips) | |
 | [NewsWave: RSS Feed Reader](https://apps.apple.com/us/app/newswave/id1373172727) | [@MarcMasVi](https://twitter.com/MarcMasVi) | |
