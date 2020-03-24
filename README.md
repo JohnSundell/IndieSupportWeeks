@@ -230,6 +230,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | |
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
 | [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
+| [When Do - A Complication](https://apps.apple.com/us/app/when-do-a-complication/id1485413076) | [@AndrewCodeChimp](https://twitter.com/AndrewCodeChimp) | |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
 | [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift |
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
