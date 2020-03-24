@@ -22,6 +22,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [The.Swift.Dev.](https://theswiftdev.com)
 - [A Swiftly Tilting Planet](https://www.youtube.com/c/ASwiftlyTiltingPlanet)
 - [Ordinary Coding](https://ordinarycoding.com/)
+- [Launched](https://launchedfm.com)
 
 ## How to join the effort
 
@@ -73,7 +74,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
 | [Contacts Journal CRM](https://itunes.apple.com/us/app/contacts-journal-crm-professional/id327685977) | [@zulfishah](https://twitter.com/zulfishah) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
-| [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) | |
+| [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) |Launched|
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
@@ -147,7 +148,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Pasta](https://getpasta.com) | [@wessley](https://twitter.com/wessley) | |
 | [Pauses](https://apps.apple.com/ca/app/pauses/id481375590) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [PDFs Split & Merge](https://apps.apple.com/us/app/pdfs-split-merge/id1393839510) | [@zen_prog](https://twitter.com/zen_prog) | |
-| [Pennant](https://apps.apple.com/us/app/id622463230) | [@thillsman](https://twitter.com/thillsman) | |
+| [Pennant](https://apps.apple.com/us/app/id622463230) | [@thillsman](https://twitter.com/thillsman) |Launched|
 | [Pinc - Manage Pin & Pass Codes](https://apps.apple.com/us/app/pinc-pin-code-helper/id1453881159) | [@pinc_app](https://twitter.com/pinc_app) | |
 | [Pine - Deep Breathing](https://apps.apple.com/us/app/pine-deep-breathing/id1418759841) | [@casey_bennett](https://twitter.com/casey_bennett) | |
 | [PLYR](https://www.plyr.app) | [@chih98](https://twitter.com/chih98) | |
