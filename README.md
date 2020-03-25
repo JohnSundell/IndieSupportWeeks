@@ -27,6 +27,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Ohmyswift](https://ohmyswift.com)
 - [Ashish Kakkad](https://ashishkakkad.com)
 - [Code With Chris](https://codewithchris.com)
+- [onmyway133](https://onmyway133.github.io/)
 
 ## How to join the effort
 
@@ -59,7 +60,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
-| [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
+| [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | onmyway133 |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
 | [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
@@ -90,10 +91,9 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Diagram.Codes Studio](https://studio.diagram.codes) | [@hugozap](https://twitter.com/hugozap) | |
 | [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
-| [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | SwiftLee |
+| [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | |
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
-| [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [@tomvanzummeren](https://twitter.com/tomvanzummeren) | SwiftLee |
 | [EBook Library: Easy PDF reader](https://apps.apple.com/us/app/ebook-library/id1482315390) | [@JJAllenTech](https://twitter.com/JJAllenTech) | |
 | [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
@@ -142,7 +142,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
 | [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
-| [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
+| [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | onmyway133 |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) |Ordinary Coding|
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
@@ -156,7 +156,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) | [@chrisvasselli](https://twitter.com/chrisvasselli) | |
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
 | [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | |
-| [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | |
+| [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | onmyway133 |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
 | [Overdue: Safety Check In](https://apps.apple.com/us/app/overdue-safety-check-in/id1493718581) | [@Jax_Evans](https://twitter.com/Jax_Evans) | |
 | [PackCheck Packing List](https://apps.apple.com/us/app/packcheck/id1245320168) | [@murraysagal](https://twitter.com/murraysagal) | |
@@ -198,7 +198,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | Code With Chris |
-| [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov, SwiftLee |
+| [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
