@@ -69,6 +69,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CardPointers for Credit Cards](https://apps.apple.com/us/app/cardpointers/id1472875808) | [@emcro](https://twitter.com/emcro) | |
 | [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) |Hacking with Swift|
 | [Cascadea](https://cascadea.app) | [@CascadeaApp](https://twitter.com/CascadeaApp) | Marin Todorov |
+| [Casita](https://www.casitaapp.com) | [@Pirocso](https://twitter.com/Pirocso) | |
 | [C-Command: Mac Software](https://c-command.com) | [@mjtsai](https://twitter.com/mjtsai) | |
 | [Cheatsheet](https://overdesigned.net/cheatsheet) | [@aoverholtzer](https://twitter.com/aoverholtzer) | Swift by Sundell |
 | [Chronicle - Bill Organizer](https://apps.apple.com/us/app/chronicle-bill-management/id572561420) | [@LittleFinLLC](https://twitter.com/LittleFinLLC) | |
