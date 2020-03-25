@@ -84,6 +84,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
+| [DD-WRT](https://apps.apple.com/us/app/dd-wrt/id897098616) | [@venderbase](https://twitter.com/venderbase) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
 | [Diagrams](https://diagrams.app) | [@lukaskubanek](https://twitter.com/lukaskubanek) | Swift by Sundell |
@@ -241,6 +242,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Treeceps: Fitness Workout Game](https://apps.apple.com/app/id1406465670) | [@JoeWaldow](https://twitter.com/JoeWaldow) | |
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
+| [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
