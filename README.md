@@ -206,6 +206,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
 | [Slideas](https://www.slideas.app) | [@AgaricPerdereau](https://twitter.com/AgaricPerdereau) |Swift over Coffee|
+| [SmallCubed MailSuite](https://smallcubed.com/scs) | [@SmallCubed](https://twitter.com/SmallCubed) | |
 | [SmartCards+ Spaced Repetition](https://apps.apple.com/app/apple-store/id1210521987) | [@joeleblanc](https://twitter.com/joeleblanc) | |
 | [Smartrips](https://apps.apple.com/app/smartrips/id1479048773) | [@EliasEsquivelM](https://twitter.com/EliasEsquivelM) | |
 | [Snapthread](https://itunes.apple.com/app/id1277445843) | [@bhansmeyer](https://twitter.com/bhansmeyer) |Hacking with Swift|
