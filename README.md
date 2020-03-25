@@ -237,6 +237,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
 | [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | Swift Weekly Brief |
 | [Timeless Meditation](https://apps.apple.com/us/app/timeless-meditation/id1183067514) | [@arthurofbabylon](https://twitter.com/arthurofbabylon) | Code With Chris |
+| [Timelines Time Tracking](https://timelinesapp.io) | [@luksape](https://twitter.com/luksape) | |
 | [Timemator](https://timemator.com) | [@sebakotiv](https://twitter.com/sebakotiv) | |
 | [Together Family Video Chat](https://apps.apple.com/us/app/together-family-video-chat/id1405515604) | [@echamussy](https://twitter.com/echamussy) | |
 | [TokeiTango](https://apps.apple.com/us/app/tokeitango/id1492526803) | [@tokeitango](https://twitter.com/tokeitango) | |
