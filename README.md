@@ -180,6 +180,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Pine - Deep Breathing](https://apps.apple.com/us/app/pine-deep-breathing/id1418759841) | [@casey_bennett](https://twitter.com/casey_bennett) | |
 | [PLYR](https://www.plyr.app) | [@chih98](https://twitter.com/chih98) | |
 | [Pocketdex for Pokémon GO](https://apps.apple.com/ca/app/pocketdex-for-pokémon-go/id1255564898) | [@Surenix](https://twitter.com/Surenix) | |
+| [Polly Lingual](https://apps.apple.com/app/polly-lingual/id1049407300) | [@adjwilli](https://twitter.com/adjwilli) | |
 | [Poly - Bouncy Ball 3D](https://apps.apple.com/app/id1464322679) | [@deniskako_](https://twitter.com/deniskako_) | |
 | [ProTracker Calorie Diet & Keto](https://apps.apple.com/ca/app/protracker-calorie-diet-keto/id587922128) | [@protrackerapp](https://twitter.com/ProTrackerApp) | |
 | [Proxyman](https://proxyman.io) | [@_nghiatran](https://twitter.com/_nghiatran) | |
