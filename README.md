@@ -184,7 +184,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Quiet](https://lighthouse16.com/quiet/) | [@lighthouse16_hq](https://twitter.com/lighthouse16_hq) | |
-| [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walfordeast) | |
+| [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walford_east) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
 | [RailModeller Pro](https://www.railmodeller.com) | [@IsleOfTheKakapo](https://twitter.com/IsleOfTheKakapo) | |
 | [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | Code With Chris |
