@@ -124,6 +124,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | |
 | [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
 | [HTTPBot - REST Client](https://itunes.apple.com/us/app/httpbot/id1232603544) | [@arvindhsukumar](https://twitter.com/arvindhsukumar) | |
+| [huedoku: original color puzzle](https://apps.apple.com/us/app/huedoku/id811256629) | [@gabemott](https://twitter.com/gabemott) | |
 | [Huh? Dictionary](https://apps.apple.com/app/id1330097506) | [@yaapete](https://twitter.com/yaapete) | |
 | [iFont: find, install any font](https://apps.apple.com/gb/app/ifont-find-install-any-font/id1173222289) | [@CameronFLeask](https://twitter.com/CameronFLeask) | |
 | [IntelliList - Shopping List](https://apps.apple.com/us/app/intellilist-shopping-list/id425278338) | [@mariozullo](https://twitter.com/mariozullo) | |
