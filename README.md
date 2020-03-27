@@ -27,6 +27,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Ohmyswift](https://ohmyswift.com)
 - [Ashish Kakkad](https://ashishkakkad.com)
 - [Code With Chris](https://codewithchris.com)
+- [LearnAppMaking](https://learnappmaking.com)
 
 ## How to join the effort
 
