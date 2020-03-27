@@ -60,6 +60,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
+| [AvoToast: Meal Planning For Weight Loss](https://www.avotoast.app) | [@joshgachnang](https://twitter.com/joshgachnang) | |
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
 | [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
