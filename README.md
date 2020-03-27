@@ -221,6 +221,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Snipline](https://snipline.io) | [@mitchartemis](https://twitter.com/mitchartemis) | |
 | [Socialite](https://socialiteapp.com) | [@jacobgorban](https://twitter.com/jacobgorban) | |
 | [SolarWatch Sunrise Sunset Time](https://apps.apple.com/de/app/solar-watch-sunrise-sunset/id1191365122) | [@ekurutepe](https://twitter.com/ekurutepe) | |
+| [SoloSlides - Google Photos slideshow](https://apps.apple.com/app/apple-store/id1457515550) | [@timcarrphoto](https://twitter.com/timcarrphoto) | |
 | [Soulver](https://soulver.app) | [@zac_coh](https://twitter.com/zac_coh) | Swift by Sundell, Christian Tietze |
 | [SongSheet Pro - Chord Charts](https://apps.apple.com/au/app/songsheet-pro-chord-charts/id581094194) | [@GabrielHauber](https://twitter.com/GabrielHauber) | |
 | [Soor](https://soor.app) | [@tanmays](https://twitter.com/tanmays) | |
@@ -268,6 +269,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [WordCounter](https://wordcounterapp.com) | [@ctietze](https://twitter.com/ctietze) | |
 | [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
 | [When Do - A Complication](https://apps.apple.com/us/app/when-do-a-complication/id1485413076) | [@AndrewCodeChimp](https://twitter.com/AndrewCodeChimp) | |
+| [Wifibooth the PRO photo booth](https://apps.apple.com/app/apple-store/id946775424) | [@timcarrphoto](https://twitter.com/timcarrphoto) | |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
 | [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift, Christian Tietze |
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
