@@ -68,7 +68,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Bill Organizer by Money Master](https://apps.apple.com/us/app/bill-organizer-by-money-master/id1358119874) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Bitesnap: Photo Food Journal](https://apps.apple.com/us/app/bitesnap-photo-food-journal/id1108291490) | [@michalwols](https://twitter.com/michalwols) | |
 | [Book Track](https://simonemontalto.com/projects/book-track) | [@BookTrackApp](https://twitter.com/BookTrackApp) | Sean Allen |
-| [Book Level Checker](https://apps.apple.com/us/app/book-level-checker/id1495605359) | -- | Tom Zeng |
+| [Book Level Checker](https://apps.apple.com/us/app/book-level-checker/id1495605359) | [@publicbull](https://twitter.com/publicbull) |  |
 | [BuildCores: PC Parts & Builds](https://apps.apple.com/us/app/buildcores-pc-parts-builds/id1441971434) | [@KahlonHarshdeep](https://twitter.com/KahlonHarshdeep) | |
 | [CardPointers for Credit Cards](https://apps.apple.com/us/app/cardpointers/id1472875808) | [@emcro](https://twitter.com/emcro) | |
 | [Cascable](https://cascable.se/ios) | [@iKenndac](https://twitter.com/iKenndac) |Hacking with Swift|
