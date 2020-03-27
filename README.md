@@ -151,6 +151,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) |Ordinary Coding|
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
 | [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
+| [NapBot - Auto Sleep Tracker](https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116) | [@mecid](https://twitter.com/mecid) | |
 | [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
 | [Neo Path - a Neomorphistic Hyper Casual Game!](https://apps.apple.com/app/neo-path/id1502487720) | [@NeoPathGame](https://twitter.com/NeoPathGame) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
