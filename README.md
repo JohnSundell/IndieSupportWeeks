@@ -266,6 +266,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
+| [Voice Commander Daw](https://apps.apple.com/us/app/voice-commander-daw/id1316690369?ls=1) | [@VoiceCommander](https://twitter.com/VoiceCommander) | |
 | [Water & Coffee](https://apps.apple.com/us/app/water-coffee/id1475423483) | [@NickFoster56](https://twitter.com/NickFoster56) | |
 | [WeatherGO - Temperature App](https://apps.apple.com/us/app/weathergo-temperature-app/id1271073320) | [@Piazza_Chris](https://twitter.com/Piazza_Chris) | |
 | [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
