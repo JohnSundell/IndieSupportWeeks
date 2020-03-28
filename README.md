@@ -67,6 +67,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [beorg: To-Do List & Agenda](https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962) | [@beorgapp](https://twitter.com/beorgapp) | Christian Tietze |
 | [Big Hairy Goal](https://bighairygoal.com) | [@berbie](https://twitter.com/berbie) | |
+| [Bikeaholic - Activity tracker](https://apps.apple.com/us/app/bikeaholic-activity-tracker/id1455726091) | [@MetaImi](https://twitter.com/MetaImi) | |
 | [Bill Organizer by Money Master](https://apps.apple.com/us/app/bill-organizer-by-money-master/id1358119874) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Bitesnap: Photo Food Journal](https://apps.apple.com/us/app/bitesnap-photo-food-journal/id1108291490) | [@michalwols](https://twitter.com/michalwols) | |
 | [Book Track](https://simonemontalto.com/projects/book-track) | [@BookTrackApp](https://twitter.com/BookTrackApp) | Sean Allen |
