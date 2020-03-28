@@ -246,7 +246,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [TableFlip: Markdown Table Editor](https://tableflipapp.com) | [@ctietze](https://twitter.com/ctietze) | |
 | [TalkJot – Voice-to-Email Notes](https://talkjot.co) | [@ATORKO_](https://twitter.com/ATORKO_) | |
 | [Tap Forms](https://www.tapforms.com) | [@tapforms](https://twitter.com/tapforms) | |
-| [Task List](https://apps.apple.com/us/app/to-do-list-app-task-list/id1278753273) | [@adelmaer](https://twitter.com/adelmaer) | |
+| [Task List - To Do List App](https://apps.apple.com/us/app/to-do-list-app-task-list/id1278753273) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Taskmator - TaskPaper Client](https://apps.apple.com/us/app/taskmator-taskpaper-compatible/id806250172) | [@Taskmator](https://twitter.com/Taskmator) | |
 | [Tempo for Runners](https://apps.apple.com/app/id1106746589) | [@rmatta](https://twitter.com/rmatta) | |
 | [The Archive - Plain.txt note taking](https://zettelkasten.de/the-archive) | [@ctietze](https://twitter.com/ctietze) | |
