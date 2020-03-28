@@ -85,6 +85,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Code News](https://codenews.app) | [@FagadariuMarcel](https://twitter.com/FagadariuMarcel) | Ashish Kakkad |
 | [Coin - Focus Timer](https://apps.apple.com/us/app/coin-focus-timer/id1498884826) | [@Gabriel07__](https://twitter.com/Gabriel07__) | |
 | [Contacts Journal CRM](https://itunes.apple.com/us/app/contacts-journal-crm-professional/id327685977) | [@zulfishah](https://twitter.com/zulfishah) | |
+| [Countdown App](https://apps.apple.com/us/app/countdown-app-day-counter/id1479858343) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) |Launched|
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
@@ -107,6 +108,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
 | [EveryPlan: Routines for Wellbeing](https://drach.uk/everyplan) | [@misha_drachuk](https://twitter.com/misha_drachuk) | |
+| [Eye Timer for Mac - Prevent eye strain](https://apps.apple.com/us/app/eye-timer/id1485856873) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
@@ -194,6 +196,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Quiet](https://lighthouse16.com/quiet/) | [@lighthouse16_hq](https://twitter.com/lighthouse16_hq) | |
 | [Rainbow Music.](https://apps.apple.com/gb/app/rainbow-music/id1480435488) | [@walford_east](https://twitter.com/walford_east) | |
+| [Random Number Generator App](https://apps.apple.com/us/app/random-number-generator-app/id1476396989) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [RiskDoctor - Option Trading](https://apps.apple.com/us/app/id1451973063) | [@RiskNiOSMusings](https://twitter.com/RiskNiOSMusings) | |
 | [RailModeller Pro](https://www.railmodeller.com) | [@IsleOfTheKakapo](https://twitter.com/IsleOfTheKakapo) | |
 | [Rep Up](https://rep-up.com) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | Code With Chris |
