@@ -90,6 +90,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) |Launched|
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
+| [CrispyCrypto](https://apps.apple.com/us/app/crispycrypto/id1412148566) | [@ilyagruzhevski](https://twitter.com/ilyagruzhevski) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
