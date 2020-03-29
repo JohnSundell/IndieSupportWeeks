@@ -28,6 +28,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Ashish Kakkad](https://ashishkakkad.com)
 - [Code With Chris](https://codewithchris.com)
 - [LearnAppMaking](https://learnappmaking.com)
+- [Benoit Pasquier](https://benoitpasquier.com)
 
 ## How to join the effort
 
@@ -107,7 +108,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
 | [EveryPlan: Routines for Wellbeing](https://drach.uk/everyplan) | [@misha_drachuk](https://twitter.com/misha_drachuk) | |
-| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | |
+| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | Benoit Pasquier |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | Ashish Kakkad |
