@@ -28,6 +28,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Ashish Kakkad](https://ashishkakkad.com)
 - [Code With Chris](https://codewithchris.com)
 - [LearnAppMaking](https://learnappmaking.com)
+- [Benoit Pasquier](https://benoitpasquier.com)
 
 ## How to join the effort
 
@@ -67,6 +68,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [beorg: To-Do List & Agenda](https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962) | [@beorgapp](https://twitter.com/beorgapp) | Christian Tietze |
 | [Big Hairy Goal](https://bighairygoal.com) | [@berbie](https://twitter.com/berbie) | |
+| [Bikeaholic - Activity tracker](https://apps.apple.com/us/app/bikeaholic-activity-tracker/id1455726091) | [@MetaImi](https://twitter.com/MetaImi) | |
 | [Bill Organizer by Money Master](https://apps.apple.com/us/app/bill-organizer-by-money-master/id1358119874) | [@Matt1Corey](https://twitter.com/Matt1Corey) | |
 | [Bitesnap: Photo Food Journal](https://apps.apple.com/us/app/bitesnap-photo-food-journal/id1108291490) | [@michalwols](https://twitter.com/michalwols) | |
 | [Book Track](https://simonemontalto.com/projects/book-track) | [@BookTrackApp](https://twitter.com/BookTrackApp) | Sean Allen |
@@ -89,6 +91,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [CountdownBar - days counter](https://countdownbar.app) | [@aleksanderpopko](https://twitter.com/aleksanderpopko) | |
 | [Countdowns - Track Events](https://apps.apple.com/us/app/countdowns-track-events/id917514700) | [@shayesapps](https://twitter.com/shayesapps) |Launched|
 | [Country Facts](https://apps.apple.com/us/app/country-facts/id1491783645) | [@m_galvagno](https://twitter.com/m_galvagno) | |
+| [CrispyCrypto](https://apps.apple.com/us/app/crispycrypto/id1412148566) | [@ilyagruzhevski](https://twitter.com/ilyagruzhevski) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
@@ -101,6 +104,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
 | [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | SwiftLee |
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
+| [Dr. Proto: iPad protototyping with the Apple pencil](https://apps.apple.com/us/app/dr-proto/id1422361544) | [@drprotoapp](https://twitter.com/drprotoapp) | |
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
 | [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [@tomvanzummeren](https://twitter.com/tomvanzummeren) | SwiftLee |
 | [EasyGit](https://easygit.app) | [@verigak](https://twitter.com/verigak) | |
@@ -109,7 +113,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
 | [EveryPlan: Routines for Wellbeing](https://drach.uk/everyplan) | [@misha_drachuk](https://twitter.com/misha_drachuk) | |
 | [Eye Timer for Mac - Prevent eye strain](https://apps.apple.com/us/app/eye-timer/id1485856873) | [@adelmaer](https://twitter.com/adelmaer) | |
-| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | |
+| [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | Benoit Pasquier |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Find Any File](https://findanyfile.app/index.php) | [@tempelorg](https://twitter.com/tempelorg) | Ashish Kakkad |
@@ -128,6 +132,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Highlighted: Book Highlighter](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [@stuhecdamir](https://twitter.com/stuhecdamir) | |
 | [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | |
 | [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
+| [Horcrux Email Backup](https://apps.apple.com/app/horcrux/id557880555) | [@suhastech](https://twitter.com/suhastech) | |
 | [HTTPBot - REST Client](https://itunes.apple.com/us/app/httpbot/id1232603544) | [@arvindhsukumar](https://twitter.com/arvindhsukumar) | |
 | [huedoku: original color puzzle](https://apps.apple.com/us/app/huedoku/id811256629) | [@gabemott](https://twitter.com/gabemott) | |
 | [Huh? Dictionary](https://apps.apple.com/app/id1330097506) | [@yaapete](https://twitter.com/yaapete) | |
@@ -152,6 +157,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Meal Reminders](https://apps.apple.com/us/app/yes-you-can-meal-reminders/id1122768779) | [@PedroAnibarro](https://twitter.com/PedroAnibarro) | |
 | [Metronomics Metronome](https://apps.apple.com/us/app/metronomics-metronome/id435393098) | [@jnpdx](https://twitter.com/jnpdx) | |
 | [Mexican Train Dominoes](https://apps.apple.com/us/app/mexican-train-dominoes/id507291922) | [@MexicanTrainDom](https://twitter.com/MexicanTrainDom) | |
+| [MIDITROL - The MIDI Controller for wireless gamepads](https://apps.apple.com/us/app/miditrol/id1504524252?l=es&ls=1) | [@luiscript](https://twitter.com/luiscript) | | 
 | [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
@@ -217,6 +223,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | Code With Chris |
+| [SimpleRecipes - Beta](https://simplerecipes.app/) | [@OsterbergJordan](https://twitter.com/osterbergjordan) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov, SwiftLee |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
@@ -267,9 +274,11 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
+| [Vinyl Fetish - music player](https://apps.apple.com/app/vinyl-fetish-music-player/id1490719457) | [@VinylFetishApp](https://twitter.com/VinylFetishApp) | |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
+| [Voice Commander Daw](https://apps.apple.com/us/app/voice-commander-daw/id1316690369?ls=1) | [@VoiceCommander](https://twitter.com/VoiceCommander) | |
 | [Water & Coffee](https://apps.apple.com/us/app/water-coffee/id1475423483) | [@NickFoster56](https://twitter.com/NickFoster56) | |
 | [WeatherGO - Temperature App](https://apps.apple.com/us/app/weathergo-temperature-app/id1271073320) | [@Piazza_Chris](https://twitter.com/Piazza_Chris) | |
 | [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
