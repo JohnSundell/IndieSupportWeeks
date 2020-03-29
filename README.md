@@ -263,6 +263,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
+| [Vinyl Fetish - music player](https://apps.apple.com/app/vinyl-fetish-music-player/id1490719457) | [@VinylFetishApp](https://twitter.com/VinylFetishApp) | |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
 | [Voice Rec Pro](https://apps.apple.com/us/app/voice-rec-pro/id1385001234) | [@marcel__mendes](https://twitter.com/marcel__mendes) | |
