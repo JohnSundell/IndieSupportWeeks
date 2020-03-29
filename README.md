@@ -65,6 +65,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
 | [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
+| [Beep Me - Reminders](https://apps.apple.com/us/app/beep-me-reminders/id380884909) | [@kalsky](https://twitter.com/kalsky) | |
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [beorg: To-Do List & Agenda](https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962) | [@beorgapp](https://twitter.com/beorgapp) | Christian Tietze |
 | [Big Hairy Goal](https://bighairygoal.com) | [@berbie](https://twitter.com/berbie) | |
@@ -166,6 +167,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) |Ordinary Coding|
 | [Music Vibes - Feel the Music!](https://apps.apple.com/au/app/music-vibes/id1480998628) | [@craiggrummitt](https://twitter.com/craiggrummitt) | Donny Wals |
+| [myTextViewer](https://apps.apple.com/us/app/mytextviewer/id1272975241) | [@kalsky](https://twitter.com/kalsky) | |
 | [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
 | [NapBot - Auto Sleep Tracker](https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116) | [@mecid](https://twitter.com/mecid) | |
 | [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
