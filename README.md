@@ -153,6 +153,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Meal Reminders](https://apps.apple.com/us/app/yes-you-can-meal-reminders/id1122768779) | [@PedroAnibarro](https://twitter.com/PedroAnibarro) | |
 | [Metronomics Metronome](https://apps.apple.com/us/app/metronomics-metronome/id435393098) | [@jnpdx](https://twitter.com/jnpdx) | |
 | [Mexican Train Dominoes](https://apps.apple.com/us/app/mexican-train-dominoes/id507291922) | [@MexicanTrainDom](https://twitter.com/MexicanTrainDom) | |
+| [MIDITROL - The MIDI Controller for wireless gamepads](https://apps.apple.com/us/app/miditrol/id1504524252?l=es&ls=1) | [@luiscript](https://twitter.com/luiscript) | | 
 | [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
