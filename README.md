@@ -122,6 +122,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
+| [FormConnect Pro](https://apps.apple.com/app/formconnect-pro/id590313779) | [@formconnections](https://twitter.com/formconnections) | |
 | [FrogRadio](https://frogradio.net) | [@FrogRadioHQ](https://twitter.com/FrogRadioHQ) | |
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
 | [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | Donny Wals |
