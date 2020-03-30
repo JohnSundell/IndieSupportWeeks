@@ -142,6 +142,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Invoice.app](https://invoice.app) | [@PeteStojanowski](https://twitter.com/PeteStojanowski) | |
 | [IPTV - Streams](https://apps.apple.com/pt/app/iptv-streams/id1492179924?l=en) | [@andremartingo](https://twitter.com/andremartingo) | |
 | [Iron - Workout Tracker](https://apps.apple.com/de/app/iron-workout-tracker/id1479893244) | [@swiftkarim](https://twitter.com/swiftkarim) | |
+| [iScreensaver Designer](https://iScreensaver.com) | [@XochiMedia](https://twitter.com/xochimedia) | |
 | [Jump Assistant](https://apps.apple.com/us/app/jump-assistant/id1381508841) | [@neilhiddink](https://twitter.com/neilhiddink) |Swift over Coffee|
 | [Juno](https://juno.sh) | [@alexstaravoitau](https://twitter.com/alexstaravoitau) | |
 | [Kalkyl](https://apps.apple.com/app/id519933025) | [@a_joensson](https://twitter.com/a_joensson) | |
