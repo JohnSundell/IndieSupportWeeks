@@ -228,6 +228,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | Code With Chris |
 | [SimpleRecipes - Beta](https://simplerecipes.app/) | [@OsterbergJordan](https://twitter.com/osterbergjordan) | |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov, SwiftLee |
+| [Sky Tripping](https://skytripping.com) | [@danhixon](https://twitter.com/danhixon) | Dan Hixon |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
