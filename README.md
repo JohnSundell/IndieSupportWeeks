@@ -54,6 +54,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 
 | App | Developer’s Twitter account | Promoted by |
 | --- | --------------------------- | ------------ |
+|Feriapp](https://www.feriapp.it/) |  [@feriappofficial](https://twitter.com/feriappofficial) | |
 | [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | Sean Allen, Code With Chris |
 | [ActivityChamp: Watch & Track](https://apps.apple.com/us/app/activitychamp/id1481461808) | [@baduxdaniel](https://twitter.com/baduxdaniel) | |
 | [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen|
@@ -278,7 +279,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
-| [Vekt - Weight Tracking](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [@hiddevdploeg](https://twitter.com/hiddevdploeg) | |
 | [Vinyl Fetish - music player](https://apps.apple.com/app/vinyl-fetish-music-player/id1490719457) | [@VinylFetishApp](https://twitter.com/VinylFetishApp) | |
 | [Visits Journal](https://visits.app) | [@RecursiveSwift](https://twitter.com/RecursiveSwift) | |
 | [Viso](https://getviso.app/) | [@knightbenax](https://twitter.com/knightbenax) | |
