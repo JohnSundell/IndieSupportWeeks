@@ -273,6 +273,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [TokeiTango](https://apps.apple.com/us/app/tokeitango/id1492526803) | [@tokeitango](https://twitter.com/tokeitango) | |
 | [Train Beacon](https://www.trainbeacon.co.uk) | [@mobile_appz](https://twitter.com/mobile_appz) | |
 | [Treeceps: Fitness Workout Game](https://apps.apple.com/app/id1406465670) | [@JoeWaldow](https://twitter.com/JoeWaldow) | |
+| [TripMode: Save Money, Browse Faster](https://www.tripmode.ch) | [@tripmodeCH](https://twitter.com/tripmodeCH) | |
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
