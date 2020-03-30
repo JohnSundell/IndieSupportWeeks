@@ -127,7 +127,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | Donny Wals |
 | [Gradient Game](https://apps.apple.com/us/app/gradients-game/id1479784361) | [@rudrankriyam](https://twitter.com/rudrankriyam) | Donny Wals |
 | [guitλR - practice smλrter](https://apps.apple.com/de/app/guitλr/id1492558099) | [@schipkowski](https://twitter.com/schipkowski) | |
-| [HazeOver — Distraction Dimmer™ for Mac](https://hazeover.com) | [@pointum](https://twitter.com/pointum) | |
+| [HazeOver — Distraction Dimmer™ for Mac](https://hazeover.com) | [@pointum](https://twitter.com/pointum) | Swift by Sundell |
 | [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514) | [@slizeray](https://twitter.com/slizeray) | |
 | [Helvault - MTG Card Scanner](https://apps.apple.com/br/app/helvault-mtg-card-scanner/id1466963201) | [@vitorcesco](https://twitter.com/vitorcesco) | |
 | [Highlighted: Book Highlighter](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [@stuhecdamir](https://twitter.com/stuhecdamir) | |
