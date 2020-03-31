@@ -160,7 +160,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Metronomics Metronome](https://apps.apple.com/us/app/metronomics-metronome/id435393098) | [@jnpdx](https://twitter.com/jnpdx) | |
 | [Mexican Train Dominoes](https://apps.apple.com/us/app/mexican-train-dominoes/id507291922) | [@MexicanTrainDom](https://twitter.com/MexicanTrainDom) | |
 | [MIDITROL - The MIDI Controller for wireless gamepads](https://apps.apple.com/us/app/miditrol/id1504524252?l=es&ls=1) | [@luiscript](https://twitter.com/luiscript) | | 
-| [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | |
+| [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | Sky Tripping |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
 | [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
@@ -180,7 +180,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Nighthawk](https://nighthawk.app) | [@samhenrigold](https://twitter.com/samhenrigold) | |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) | [@chrisvasselli](https://twitter.com/chrisvasselli) | |
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
-| [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | |
+| [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | Sky Tripping |
 | [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
 | [Overdue: Safety Check In](https://apps.apple.com/us/app/overdue-safety-check-in/id1493718581) | [@Jax_Evans](https://twitter.com/Jax_Evans) | |
@@ -222,13 +222,13 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
 | [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | Swift Weekly Brief |
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
-| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
+| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | Sky Tripping |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [ShopIT - Shared Grocery List](https://shop-it.app) | [@SoMiinO](https://twitter.com/SoMiinO) | |
 | [Shortlist](https://apps.apple.com/au/app/shortlist/id1480090462) | [@markhmwong](https://twitter.com/markhmwong) | Code With Chris |
-| [SimpleRecipes - Beta](https://simplerecipes.app/) | [@OsterbergJordan](https://twitter.com/osterbergjordan) | |
+| [SimpleRecipes - Beta](https://simplerecipes.app/) | [@OsterbergJordan](https://twitter.com/osterbergjordan) | Dan Hixon |
 | [SketchParty TV](https://sketchparty.tv) | [@mattbraun](https://twitter.com/mattbraun) | Marin Todorov, SwiftLee |
-| [Sky Tripping](https://skytripping.com) | [@danhixon](https://twitter.com/danhixon) | Dan Hixon |
+| [Sky Tripping](https://skytripping.com) | [@danhixon](https://twitter.com/danhixon) | |
 | [Sleek Calendar](https://sleekcal.com) | [@enseeyab](https://twitter.com/enseeyab) | |
 | [Sleepytime](https://apps.apple.com/us/app/sleepytime/id404302586) | [@IrradiatedApps](https://twitter.com/IrradiatedApps) | |
 | [Slid - Story of your activity](https://apps.apple.com/us/app/id1484705784) | [@s_tsarikovskiy](https://twitter.com/s_tsarikovskiy) | |
