@@ -117,6 +117,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Eye Timer for Mac - Prevent eye strain](https://apps.apple.com/us/app/eye-timer/id1485856873) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | Benoit Pasquier |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
+| [Feriapp](https://www.feriapp.it) | [@feriappofficial](https://twitter.com/feriappofficial) | |
 | [Find My Parcels](https://apps.apple.com/us/app/find-my-parcel/id1015444485) | [@Kablonetuser](https://twitter.com/Kablonetuser) | |
 | [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee, Swift by Sundell, Sean Allen |
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
