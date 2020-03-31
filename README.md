@@ -307,6 +307,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
 | [WRD Scanner Pro](https://apps.apple.com/app/id1449966107) | [@dsteppenbeck](https://twitter.com/dsteppenbeck) | |
 | [WX Workout Scheduler](https://apps.apple.com/app/apple-store/id1500051249?pt=120892236&ct=isw&mt=8) | [@mattglover](https://twitter.com/mattglover) | |
+| [ZenJournal](https://thezenjournal.com) | [@randomor](https://twitter.com/randomor) | |
 
 ## Answers to common questions
 
