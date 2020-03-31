@@ -152,6 +152,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Kana - Hiragana and Katakana](https://apps.apple.com/app/id1454200955) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
 | [Kiddo Cards: Letters, Numbers+](https://apps.apple.com/us/app/kiddo-cards-letters-numbers/id1490581456) | [@onlytruejustin](https://twitter.com/onlytruejustin) | |
 | [Killa Komets](https://apps.apple.com/gb/app/killa-komets/id1426722654) | [@DannyJohnLaw](https://twitter.com/DannyJohnLaw) | |
+| [LazyBoard: Phrase Keyboard](https://apps.apple.com/us/app/lazyboard-phrase-keyboard/id1459047306) | [@bokhary92](https://twitter.com/bokhary92) | |
 | [Learn Japanese: Sensei](https://apps.apple.com/app/id1495789984) | [@Romain_Pellen](https://twitter.com/Romain_Pellen) | |
 | [Libi Mood Tracker](https://apps.apple.com/us/app/libi/id1475819970?ls=1) | [@breakthesystem](https://twitter.com/breakthesystem) | |
 | [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | Code With Chris |
