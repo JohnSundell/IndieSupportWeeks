@@ -267,6 +267,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Task List - To Do List App](https://apps.apple.com/us/app/to-do-list-app-task-list/id1278753273) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Taskmator - TaskPaper Client](https://apps.apple.com/us/app/taskmator-taskpaper-compatible/id806250172) | [@Taskmator](https://twitter.com/Taskmator) | |
 | [Tempo for Runners](https://apps.apple.com/app/id1106746589) | [@rmatta](https://twitter.com/rmatta) | |
+| [Text Case](https://textcase.app) | [@chrishannah](https://twitter.com/chrishannah) | |
 | [The Archive - Plain.txt note taking](https://zettelkasten.de/the-archive) | [@ctietze](https://twitter.com/ctietze) | |
 | [Thirstic - Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) | [@thirstic](https://twitter.com/thirstic) | |
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
