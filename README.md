@@ -183,7 +183,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [myTextViewer](https://apps.apple.com/us/app/mytextviewer/id1272975241) | [@kalsky](https://twitter.com/kalsky) | |
 | [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
 | [NapBot - Auto Sleep Tracker](https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116) | [@mecid](https://twitter.com/mecid) | |
-| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | |
+| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | Ohmyswift |
 | [Neo Path - a Neomorphistic Hyper Casual Game!](https://apps.apple.com/app/neo-path/id1502487720) | [@NeoPathGame](https://twitter.com/NeoPathGame) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) | [@netsnips](https://twitter.com/netsnips) | |
@@ -288,7 +288,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | Swift Weekly Brief |
 | [Timeless Meditation](https://apps.apple.com/us/app/timeless-meditation/id1183067514) | [@arthurofbabylon](https://twitter.com/arthurofbabylon) | Code With Chris |
 | [Timelines Time Tracking](https://timelinesapp.io) | [@luksape](https://twitter.com/luksape) | |
-| [Timemator](https://timemator.com) | [@sebakotiv](https://twitter.com/sebakotiv) | |
+| [Timemator](https://timemator.com) | [@sebakotiv](https://twitter.com/sebakotiv) | Ohmyswift |
 | [Together Family Video Chat](https://apps.apple.com/us/app/together-family-video-chat/id1405515604) | [@echamussy](https://twitter.com/echamussy) | |
 | [TokeiTango](https://apps.apple.com/us/app/tokeitango/id1492526803) | [@tokeitango](https://twitter.com/tokeitango) | |
 | [Train Beacon](https://www.trainbeacon.co.uk) | [@mobile_appz](https://twitter.com/mobile_appz) | |
