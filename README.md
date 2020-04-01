@@ -127,6 +127,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [FormConnect Pro](https://apps.apple.com/app/formconnect-pro/id590313779) | [@formconnections](https://twitter.com/formconnections) | |
 | [FrogRadio](https://frogradio.net) | [@FrogRadioHQ](https://twitter.com/FrogRadioHQ) | |
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
+| [GoodTask](https://goodtaskapp.com) | [@goodtaskapp](https://twitter.com/goodtaskapp) | |
 | [Glyphfinder](https://www.glyphfinder.com) | [@hanspagel](https://twitter.com/hanspagel) | Donny Wals |
 | [Gradient Game](https://apps.apple.com/us/app/gradients-game/id1479784361) | [@rudrankriyam](https://twitter.com/rudrankriyam) | Donny Wals |
 | [guitλR - practice smλrter](https://apps.apple.com/de/app/guitλr/id1492558099) | [@schipkowski](https://twitter.com/schipkowski) | |
