@@ -109,6 +109,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
 | [Dr. Proto: iPad protototyping with the Apple pencil](https://apps.apple.com/us/app/dr-proto/id1422361544) | [@drprotoapp](https://twitter.com/drprotoapp) | |
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
+| [Earnings Season](https://apps.apple.com/us/app/earnings-season/id1193032716) | [@johncaccavale](https://twitter.com/JohnCaccavale) | |
 | [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [@tomvanzummeren](https://twitter.com/tomvanzummeren) | SwiftLee |
 | [EasyGit](https://easygit.app) | [@verigak](https://twitter.com/verigak) | |
 | [EBook Library: Easy PDF reader](https://apps.apple.com/us/app/ebook-library/id1482315390) | [@JJAllenTech](https://twitter.com/JJAllenTech) | |
