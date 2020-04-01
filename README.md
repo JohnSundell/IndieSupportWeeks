@@ -60,6 +60,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
+| [Assistant for Arkham Horror](https://hejki.org/gaah) | [@Hejki](https://twitter.com/hejki) | |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
 | [AvoToast: Meal Planning For Weight Loss](https://www.avotoast.app) | [@joshgachnang](https://twitter.com/joshgachnang) | |
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
@@ -256,6 +257,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Spark Camera & Video Editor](https://apps.apple.com/us/app/spark-camera-video-editor/id1133670954) | [@dyah10](https://twitter.com/dyah10) | |
 | [Sparkle](https://sparkleapp.com) | [@duncanwilcox](https://twitter.com/duncanwilcox) | Marin Todorov |
 | [SquareSynth](http://www.sonickitten.com/squaresynth) | [@DrumSessionss](https://twitter.com/DrumSessionss) | |
+| [SSH Config Editor](https://hejki.org/ssheditor) | [@Hejki](https://twitter.com/hejki) | |
 | [SUBWAY:NYC - Map + Train Times](https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484) | [@elliot_schrock](https://twitter.com/elliot_schrock) | |
 | [Sticker Maker • Creator Studio](https://apps.apple.com/br/app/sticker-maker-creator-studio/id1452023223) | [@honda_willian](https://twitter.com/honda_willian) | |
 | [StudIO - Code](https://studiocode.app) | [@arthur_guiot](https://twitter.com/arthur_guiot) |Hacking with Swift|
