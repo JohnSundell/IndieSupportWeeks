@@ -56,7 +56,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | --- | --------------------------- | ------------ |
 | [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | Sean Allen, Code With Chris |
 | [ActivityChamp: Watch & Track](https://apps.apple.com/us/app/activitychamp/id1481461808) | [@baduxdaniel](https://twitter.com/baduxdaniel) | |
-| [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen|
+| [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen, Stacktrace|
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
 | [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
@@ -116,7 +116,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [EasyGit](https://easygit.app) | [@verigak](https://twitter.com/verigak) | |
 | [EBook Library: Easy PDF reader](https://apps.apple.com/us/app/ebook-library/id1482315390) | [@JJAllenTech](https://twitter.com/JJAllenTech) | |
 | [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
-| [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell |
+| [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell, Stacktrace |
 | [EveryPlan: Routines for Wellbeing](https://drach.uk/everyplan) | [@misha_drachuk](https://twitter.com/misha_drachuk) | |
 | [Eye Timer for Mac - Prevent eye strain](https://apps.apple.com/us/app/eye-timer/id1485856873) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | Benoit Pasquier |
