@@ -219,6 +219,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [reDraw Whiteboard](https://apps.apple.com/us/app/redraw-whiteboard/id1114820588) | [@davereed](https://twitter.com/davereed) | |
 | [Reflow](https://reflow.app) | [@sebbourgeois](https://twitter.com/sebbourgeois) | |
 | [Remove master for camera roll](https://apps.apple.com/us/app/remove-master-for-camera-roll/id792628362) | [@suniladhyaru](https://twitter.com/suniladhyaru) | |
+| [Re:Schedule](https://www.reschedule.app) | [@girishw](https://twitter.com/girishw) | |
 | [Ria Action Adventure](https://apps.apple.com/us/app/ria-action-adventure/id1463289104) | [@AlexKissiJr](https://twitter.com/AlexKissiJr) | |
 | [Robot Call Blocker](https://apps.apple.com/us/app/robot-call-blocker/id1437586931) | [@MurphyBrantley](https://twitter.com/MurphyBrantley) | |
 | [Rotato](https://www.rotato.xyz) | [@mortenjust](https://twitter.com/mortenjust) | A Swiftly Tilting Planet, Hacking with Swift |
