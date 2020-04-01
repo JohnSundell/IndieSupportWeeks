@@ -104,6 +104,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
 | [Diagrams](https://diagrams.app) | [@lukaskubanek](https://twitter.com/lukaskubanek) | Swift by Sundell |
 | [Diagram.Codes Studio](https://studio.diagram.codes) | [@hugozap](https://twitter.com/hugozap) | |
+| [Dictionary Alpha](https://apps.apple.com/us/app/dictionary-alpha/id1505193157) | Rihab Mehboob | |
 | [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
 | [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | SwiftLee |
