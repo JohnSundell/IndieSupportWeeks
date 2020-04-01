@@ -269,7 +269,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [SVG Assets – Icon Exporter](https://apps.apple.com/us/app/svg-assets-icon-exporter/id1473747723) | [@neriusv](https://twitter.com/neriusv) | |
 | [SwapTales: Leon!](https://apps.apple.com/ch/app/swaptales-leon/id1091552811?l=en) | [@dhartbit](https://twitter.com/dhartbit) | |
 | [Sweet Hue](https://apps.apple.com/app/sweet-hue/id1437555482) | [@SweetHueApp](https://twitter.com/SweetHueApp) | |
-| [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) |Ordinary Coding|
+| [Swish](https://highlyopinionated.co/swish) | [@ch_renn](https://twitter.com/ch_renn) |Ordinary Coding, Benoit Pasquier|
 | [Sundial](https://sundialapp.com) | [@t9mike](https://twitter.com/t9mike) | Swift Weekly Brief |
 | [Super Easy Timer](https://apps.apple.com/us/app/super-easy-timer/id1353137878) | [@PaulSolt](https://twitter.com/PaulSolt) | Code With Chris |
 | [TableFlip: Markdown Table Editor](https://tableflipapp.com) | [@ctietze](https://twitter.com/ctietze) | |
