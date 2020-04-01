@@ -174,6 +174,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
 | [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
+| [Modules](https://www.spectrumreflections.com/modules-app) | [@specrefco](https://twitter.com/specrefco) | |
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) |Ordinary Coding|
