@@ -96,6 +96,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Create Booklet 2](https://itunes.apple.com/app/create-booklet-2/id1350225911) | [@TheKeptPromise](https://twitter.com/TheKeptPromise) | |
 | [CrispyCrypto](https://apps.apple.com/us/app/crispycrypto/id1412148566) | [@ilyagruzhevski](https://twitter.com/ilyagruzhevski) | |
 | [Cursor Pro](https://ixeau.com/cursor-pro) | [@martinlexow](https://twitter.com/martinlexow) | Swift by Sundell |
+| [CyberLeads](https://www.getcyberleads.com/) | [@alexsideris_](https://www.alexwest.co/) | |
 | [Daily Puzzles](https://apps.apple.com/us/app/daily-puzzles/id594653435) | [@NormanBitSolace](https://twitter.com/NormanBitSolace) | |
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [dbHarbor](https://dbharbor.app) | [@dbharborapp](https://twitter.com/dbharborapp) | |
