@@ -173,7 +173,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Metronomics Metronome](https://apps.apple.com/us/app/metronomics-metronome/id435393098) | [@jnpdx](https://twitter.com/jnpdx) | |
 | [Mexican Train Dominoes](https://apps.apple.com/us/app/mexican-train-dominoes/id507291922) | [@MexicanTrainDom](https://twitter.com/MexicanTrainDom) | |
 | [MIDITROL - The MIDI Controller for wireless gamepads](https://apps.apple.com/us/app/miditrol/id1504524252?l=es&ls=1) | [@luiscript](https://twitter.com/luiscript) | | 
-| [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | Sky Tripping |
+| [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | http://blog.skytripping.com/its-indie-support-weeks/ |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
 | [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
@@ -194,7 +194,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Nighthawk](https://nighthawk.app) | [@samhenrigold](https://twitter.com/samhenrigold) | |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) | [@chrisvasselli](https://twitter.com/chrisvasselli) | |
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
-| [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | Sky Tripping |
+| [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | http://blog.skytripping.com/its-indie-support-weeks/ |
 | [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
 | [Overdue: Safety Check In](https://apps.apple.com/us/app/overdue-safety-check-in/id1493718581) | [@Jax_Evans](https://twitter.com/Jax_Evans) | |
@@ -236,8 +236,8 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Screenie](https://www.thnkdev.com/Screenie) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
 | [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | Swift Weekly Brief |
-| [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
-| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | Sky Tripping |
+| [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | http://blog.skytripping.com/its-indie-support-weeks/ |
+| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [Shift Keyboard - Apple Watch Keyboard](https://apps.apple.com/app/id1452694750) | [@AdamFootUK](https://twitter.com/AdamFootUK) | |
 | [shiftscreen - Second screen for iOS](https://apps.apple.com/app/shiftscreen/id1498683180) | [@shiftscreen](https://twitter.com/shiftscreen) | |
