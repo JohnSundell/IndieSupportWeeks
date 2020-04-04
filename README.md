@@ -54,6 +54,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 
 | App | Developer’s Twitter account | Promoted by |
 | --- | --------------------------- | ------------ |
+| [2FAuth](https://apps.apple.com/app/2fauth/id1505207634) | [@podkovyr](https://twitter.com/podkovyr) | |
 | [30 Day Fitness Workout at Home](https://apps.apple.com/us/app/30-day-fitness-workout-at-home/id1478401895) |  [@edouard_iosdev](https://twitter.com/edouard_iosdev) | Sean Allen, Code With Chris |
 | [ActivityChamp: Watch & Track](https://apps.apple.com/us/app/activitychamp/id1481461808) | [@baduxdaniel](https://twitter.com/baduxdaniel) | |
 | [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen, Stacktrace|
