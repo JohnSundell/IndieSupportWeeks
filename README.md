@@ -128,6 +128,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Fireworks](https://www.fireworksapp.xyz) | [@BesherMaleh](https://twitter.com/BesherMaleh) |Swift over Coffee, Swift by Sundell, Sean Allen |
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
+| [FoodNoms - Food Tracker](https://apps.apple.com/us/app/foodnoms/id1479461686) | [@food_noms](https://twitter.com/food_noms) | |
 | [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
 | [FormConnect Pro](https://apps.apple.com/app/formconnect-pro/id590313779) | [@formconnections](https://twitter.com/formconnections) | |
 | [FrogRadio](https://frogradio.net) | [@FrogRadioHQ](https://twitter.com/FrogRadioHQ) | |
