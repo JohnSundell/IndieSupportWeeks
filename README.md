@@ -261,6 +261,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Soulver](https://soulver.app) | [@zac_coh](https://twitter.com/zac_coh) | Swift by Sundell, Christian Tietze |
 | [SongSheet Pro - Chord Charts](https://apps.apple.com/au/app/songsheet-pro-chord-charts/id581094194) | [@GabrielHauber](https://twitter.com/GabrielHauber) | |
 | [Soor](https://soor.app) | [@tanmays](https://twitter.com/tanmays) | |
+| [Sorted³ - Hyper-Scheduling](https://staysorted.com/) | [@Stay_Sorted](https://twitter.com/Stay_Sorted) | |
 | [Sudeb](https://apps.apple.com/us/app/sudeb/id1494667688) | [@sudebapp](https://twitter.com/sudebapp) | |
 | [Spark Camera & Video Editor](https://apps.apple.com/us/app/spark-camera-video-editor/id1133670954) | [@dyah10](https://twitter.com/dyah10) | |
 | [Sparkle](https://sparkleapp.com) | [@duncanwilcox](https://twitter.com/duncanwilcox) | Marin Todorov |
