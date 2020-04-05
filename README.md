@@ -238,7 +238,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
 | [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | Swift Weekly Brief |
 | [Secret Signs](https://apps.apple.com/us/app/secret-signs/id1451676505) | [@wwalmink](https://twitter.com/wwalmink) | |
-| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | Sky Tripping |
+| [Sensei](https://sensei.app) | [@oskargroth](https://twitter.com/oskargroth) | Sky Tripping, Benoit Pasquier |
 | [Series – Photo Collage Maker](https://apps.apple.com/us/app/id1471473571) | [@rcarver](https://twitter.com/rcarver) | |
 | [Shift Keyboard - Apple Watch Keyboard](https://apps.apple.com/app/id1452694750) | [@AdamFootUK](https://twitter.com/AdamFootUK) | |
 | [shiftscreen - Second screen for iOS](https://apps.apple.com/app/shiftscreen/id1498683180) | [@shiftscreen](https://twitter.com/shiftscreen) | |
