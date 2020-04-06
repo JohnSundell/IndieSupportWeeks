@@ -299,6 +299,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Treeceps: Fitness Workout Game](https://apps.apple.com/app/id1406465670) | [@JoeWaldow](https://twitter.com/JoeWaldow) | |
 | [TripMode: Save Money, Browse Faster](https://www.tripmode.ch) | [@tripmodeCH](https://twitter.com/tripmodeCH) | |
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
+| [V for Wiki](https://apps.apple.com/app/id993435362) | [@raureif](https://twitter.com/raureif) | |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
 | [Vekt - Weight Tracking](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [@hiddevdploeg](https://twitter.com/hiddevdploeg) | |
