@@ -188,7 +188,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [myTextViewer](https://apps.apple.com/us/app/mytextviewer/id1272975241) | [@kalsky](https://twitter.com/kalsky) | |
 | [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
 | [NapBot - Auto Sleep Tracker](https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116) | [@mecid](https://twitter.com/mecid) | |
-| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | Ohmyswift EmpowerAppsShow |
+| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | Ohmyswift, EmpowerAppsShow |
 | [Neo Path - a Neomorphistic Hyper Casual Game!](https://apps.apple.com/app/neo-path/id1502487720) | [@NeoPathGame](https://twitter.com/NeoPathGame) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) | [@netsnips](https://twitter.com/netsnips) | |
