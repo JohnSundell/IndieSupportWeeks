@@ -311,10 +311,10 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Voice Commander Daw](https://apps.apple.com/us/app/voice-commander-daw/id1316690369?ls=1) | [@VoiceCommander](https://twitter.com/VoiceCommander) | |
 | [Water & Coffee](https://apps.apple.com/us/app/water-coffee/id1475423483) | [@NickFoster56](https://twitter.com/NickFoster56) | |
 | [WeatherGO - Temperature App](https://apps.apple.com/us/app/weathergo-temperature-app/id1271073320) | [@Piazza_Chris](https://twitter.com/Piazza_Chris) | |
-| [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | |
+| [WeatherKit](https://weatherkit.org) | [@perte](https://twitter.com/perte) | Ashish Kakkad |
 | [Weather Line](https://apps.apple.com/us/app/id715319015) | [@rjonesy](https://twitter.com/rjonesy) | Code With Chris |
 | [Weight Loss Tracker App](https://apps.apple.com/in/app/weight-loss-tracker-app/id1470822790) | [@deepak_iosdev](https://twitter.com/deepak_iosdev) | |
-| [WordCounter](https://wordcounterapp.com) | [@ctietze](https://twitter.com/ctietze) | |
+| [WordCounter](https://wordcounterapp.com) | [@ctietze](https://twitter.com/ctietze) | Ashish Kakkad |
 | [When Did I…?](https://apps.apple.com/us/app/when-did-i/id1463692593) | [@heidi_helen](https://twitter.com/heidi_helen) | Swiftjective-C, Donny Wals |
 | [When Do - A Complication](https://apps.apple.com/us/app/when-do-a-complication/id1485413076) | [@AndrewCodeChimp](https://twitter.com/AndrewCodeChimp) | |
 | [Wifibooth the PRO photo booth](https://apps.apple.com/app/apple-store/id946775424) | [@timcarrphoto](https://twitter.com/timcarrphoto) | |
