@@ -130,7 +130,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [FoodNoms - Food Tracker](https://apps.apple.com/us/app/foodnoms/id1479461686) | [@food_noms](https://twitter.com/food_noms) | |
-| [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | |
+| [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | Swift by Sundell, Stacktrace |
 | [FormConnect Pro](https://apps.apple.com/app/formconnect-pro/id590313779) | [@formconnections](https://twitter.com/formconnections) | |
 | [FrogRadio](https://frogradio.net) | [@FrogRadioHQ](https://twitter.com/FrogRadioHQ) | |
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
@@ -166,7 +166,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Libi Mood Tracker](https://apps.apple.com/us/app/libi/id1475819970?ls=1) | [@breakthesystem](https://twitter.com/breakthesystem) | |
 | [Limits by Money Master](https://apps.apple.com/us/app/limits-by-money-master/id1487330496) | [@Matt1Corey](https://twitter.com/Matt1Corey) | Code With Chris |
 | [Lingo - Pocket English School](https://apps.apple.com/in/app/id1473626418) | [@mufasaYC](https://twitter.com/mufasayc) | |
-| [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell |
+| [Litur - Find your colors](https://apps.apple.com/us/app/litur/id1487096693) | [@knightbenax](https://twitter.com/knightbenax) | Swift by Sundell, Stacktrace |
 | [MAGIC KIT Pro](https://apps.apple.com/us/app/magic-kit-pro-learn-perform/id1168450796) | [@MNLeatherbarrow](https://twitter.com/MNLeatherbarrow) | |
 | [Mame Cast](https://mamecast.com) | [@StayMing](https://twitter.com/StayMing) | |
 | [Markdown Tables](https://markdowntables.app) | [@appsonthemove](https://twitter.com/appsonthemove) | |
@@ -300,7 +300,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Treeceps: Fitness Workout Game](https://apps.apple.com/app/id1406465670) | [@JoeWaldow](https://twitter.com/JoeWaldow) | |
 | [TripMode: Save Money, Browse Faster](https://www.tripmode.ch) | [@tripmodeCH](https://twitter.com/tripmodeCH) | |
 | [UPtoU](https://apps.apple.com/nl/app/uptou/id1463157512?l=en) | [@cikpis](https://twitter.com/cikpis) | |
-| [V for Wiki](https://apps.apple.com/app/id993435362) | [@raureif](https://twitter.com/raureif) | |
+| [V for Wiki](https://apps.apple.com/app/id993435362) | [@raureif](https://twitter.com/raureif) | Swift by Sundell |
 | [Vana: Break Bad Habits](https://apps.apple.com/us/app/vana-break-bad-habits/id1496528864) | [@jaketheiosdev](https://twitter.com/jaketheiosdev) | Code With Chris |
 | [VAT Making Tax Digital](https://apps.apple.com/us/app/vat-making-tax-digital/id1456351912) | [@venderbase](https://twitter.com/venderbase) | |
 | [Vekt - Weight Tracking](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [@hiddevdploeg](https://twitter.com/hiddevdploeg) | |
