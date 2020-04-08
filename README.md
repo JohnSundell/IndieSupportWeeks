@@ -321,7 +321,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
 | [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift, Christian Tietze |
 | [WorkspacePro - launch / close a bunch of macOS apps, open URLs and files](https://workspaceproapp.com) |  [@orkerimli](https://twitter.com/orkerimli) | |
-| [World Clock Time Widget](https://apps.apple.com/gb/app/world-clock-time-widget/id912698955) | [@lewisMakesApps](https://twitter.com/lewisMakesApps) | |
 | [WRD Scanner Pro](https://apps.apple.com/app/id1449966107) | [@dsteppenbeck](https://twitter.com/dsteppenbeck) | |
 | [WX Workout Scheduler](https://apps.apple.com/app/apple-store/id1500051249?pt=120892236&ct=isw&mt=8) | [@mattglover](https://twitter.com/mattglover) | |
 | [ZenJournal](https://thezenjournal.com) | [@randomor](https://twitter.com/randomor) | |
