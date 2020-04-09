@@ -29,6 +29,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [Code With Chris](https://codewithchris.com)
 - [LearnAppMaking](https://learnappmaking.com)
 - [Benoit Pasquier](https://benoitpasquier.com)
+- [EmpowerAppsShow](https://www.empowerapps.show)
 
 ## How to join the effort
 
@@ -139,10 +140,11 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Gradient Game](https://apps.apple.com/us/app/gradients-game/id1479784361) | [@rudrankriyam](https://twitter.com/rudrankriyam) | Donny Wals |
 | [guitλR - practice smλrter](https://apps.apple.com/de/app/guitλr/id1492558099) | [@schipkowski](https://twitter.com/schipkowski) | |
 | [HazeOver — Distraction Dimmer™ for Mac](https://hazeover.com) | [@pointum](https://twitter.com/pointum) | Swift by Sundell |
+| [Heartwitch](https://heartwitch.app) | [@leogdion](https://twitter.com/leogdion) | |
 | [HealthFit](https://apps.apple.com/us/app/healthfit/id1202650514) | [@slizeray](https://twitter.com/slizeray) | |
 | [Helvault - MTG Card Scanner](https://apps.apple.com/br/app/helvault-mtg-card-scanner/id1466963201) | [@vitorcesco](https://twitter.com/vitorcesco) | |
 | [Highlighted: Book Highlighter](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [@stuhecdamir](https://twitter.com/stuhecdamir) | |
-| [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | |
+| [Home Inventory](https://apps.apple.com/pl/app/home-inventory/id413564952) | [@DianeRHamilton](https://twitter.com/DianeRHamilton) | EmpowerAppsShow |
 | [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
 | [Hook]( https://hookproductivity.com) | [@HookProductvT](https://twitter.com/HookProductvT) |  |
 | [Horcrux Email Backup](https://apps.apple.com/app/horcrux/id557880555) | [@suhastech](https://twitter.com/suhastech) | |
@@ -179,7 +181,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
 | [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
-| [Modules](https://www.spectrumreflections.com/modules-app) | [@specrefco](https://twitter.com/specrefco) | |
+| [Modules](https://www.spectrumreflections.com/modules-app) | [@specrefco](https://twitter.com/specrefco) | EmpowerAppsShow |
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
 | [MusicHarbor - Track New Music](https://apps.apple.com/us/app/musicharbor/id1440405750) | [@mactanaka](https://twitter.com/mactanaka) |Ordinary Coding|
@@ -187,7 +189,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [myTextViewer](https://apps.apple.com/us/app/mytextviewer/id1272975241) | [@kalsky](https://twitter.com/kalsky) | |
 | [Nanolens - Visual Search Made By Groups](https://www.nanolens.co) | [@joshuamchoi](https://www.twitter.com/joshuamchoi) | |
 | [NapBot - Auto Sleep Tracker](https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116) | [@mecid](https://twitter.com/mecid) | |
-| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | Ohmyswift |
+| [NativeConnect](https://nativeconnect.app) | [@vadimshpakovski](https://twitter.com/vadimshpakovski) | Ohmyswift, EmpowerAppsShow |
 | [Neo Path - a Neomorphistic Hyper Casual Game!](https://apps.apple.com/app/neo-path/id1502487720) | [@NeoPathGame](https://twitter.com/NeoPathGame) | |
 | [Neon: Color and Gradient Maker](https://apps.apple.com/us/app/neon-real-time-color-picker/id1480273650) | [@SwapnanilDhol](https://twitter.com/SwapnanilDhol) | Donny Wals |
 | [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) | [@netsnips](https://twitter.com/netsnips) | |
@@ -216,7 +218,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [ProTracker Calorie Diet & Keto](https://apps.apple.com/ca/app/protracker-calorie-diet-keto/id587922128) | [@protrackerapp](https://twitter.com/ProTrackerApp) | |
 | [Proxyman](https://proxyman.io) | [@_nghiatran](https://twitter.com/_nghiatran) | Benoit Pasquier |
 | [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
-| [Pushever - APNS Tester](https://pushever.app) | [@soulchildpls](https://twitter.com/soulchildpls) | |
+| [Pushever - APNS Tester](https://pushever.app) | [@soulchildpls](https://twitter.com/soulchildpls) | EmpowerAppsShow |
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
 | [QuickRes](https://www.thnkdev.com/QuickRes) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Quiet](https://lighthouse16.com/quiet/) | [@lighthouse16_hq](https://twitter.com/lighthouse16_hq) | |
@@ -319,7 +321,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [When Do - A Complication](https://apps.apple.com/us/app/when-do-a-complication/id1485413076) | [@AndrewCodeChimp](https://twitter.com/AndrewCodeChimp) | |
 | [Wifibooth the PRO photo booth](https://apps.apple.com/app/apple-store/id946775424) | [@timcarrphoto](https://twitter.com/timcarrphoto) | |
 | [Wild Journey](https://apps.apple.com/app/wild-journey/id1437268231) | [@workbymark](https://twitter.com/workbymark) | |
-| [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift, Christian Tietze |
+| [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) | [@palmin](https://twitter.com/palmin) | Swift by Sundell, Hacking with Swift, Christian Tietze, EmpowerAppsShow |
 | [WorkspacePro - launch / close a bunch of macOS apps, open URLs and files](https://workspaceproapp.com) |  [@orkerimli](https://twitter.com/orkerimli) | |
 | [WRD Scanner Pro](https://apps.apple.com/app/id1449966107) | [@dsteppenbeck](https://twitter.com/dsteppenbeck) | |
 | [WX Workout Scheduler](https://apps.apple.com/app/apple-store/id1500051249?pt=120892236&ct=isw&mt=8) | [@mattglover](https://twitter.com/mattglover) | |
