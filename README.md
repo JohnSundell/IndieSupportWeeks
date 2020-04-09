@@ -214,7 +214,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Polly Lingual](https://apps.apple.com/app/polly-lingual/id1049407300) | [@adjwilli](https://twitter.com/adjwilli) | |
 | [Poly - Bouncy Ball 3D](https://apps.apple.com/app/id1464322679) | [@deniskako_](https://twitter.com/deniskako_) | |
 | [ProTracker Calorie Diet & Keto](https://apps.apple.com/ca/app/protracker-calorie-diet-keto/id587922128) | [@protrackerapp](https://twitter.com/ProTrackerApp) | |
-| [Proxyman](https://proxyman.io) | [@_nghiatran](https://twitter.com/_nghiatran) | |
+| [Proxyman](https://proxyman.io) | [@_nghiatran](https://twitter.com/_nghiatran) | Benoit Pasquier |
 | [Publicist](https://roundwallsoftware.com/publicist) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) |Swift over Coffee|
 | [Pushever - APNS Tester](https://pushever.app) | [@soulchildpls](https://twitter.com/soulchildpls) | |
 | [QuickPlan](https://quickplan.app) | [@iosmobilinked](https://twitter.com/iosmobilinked) | |
