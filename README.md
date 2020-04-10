@@ -102,6 +102,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [dbHarbor](https://dbharbor.app) | [@dbharborapp](https://twitter.com/dbharborapp) | |
 | [DD-WRT](https://apps.apple.com/us/app/dd-wrt/id897098616) | [@venderbase](https://twitter.com/venderbase) | |
+| [DeepMP3](https://apps.apple.com/app/deepmp3/id1485924928) | [@menezesworks](https://menezesworks.surge.sh) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Delta: Math helper](https://www.delta-math-helper.com) | [@NathanFallet](https://twitter.com/NathanFallet) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
