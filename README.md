@@ -199,6 +199,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Nighthawk](https://nighthawk.app) | [@samhenrigold](https://twitter.com/samhenrigold) | |
 | [Nihongo - Japanese Dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) | [@chrisvasselli](https://twitter.com/chrisvasselli) | |
 | [NitroNotes](https://apps.apple.com/gb/app/nitronotes/id1502080216) | [@adam_fallon_](https://twitter.com/adam_fallon_) | |
+| [No Meat Today](https://apps.apple.com/app/id1204755786) | [@sowenjub](https://twitter.com/sowenjub) | |
 | [None to Run: Start Running](https://apps.apple.com/app/none-to-run-start-running/id1491658094) | [@jeffbailey](https://twitter.com/jeffbailey) | Sky Tripping |
 | [NotePlan](https://noteplan.co) | [@metzgereduard](https://twitter.com/metzgereduard) | |
 | [Nowcast - commuter weather app](https://apps.apple.com/us/app/nowcast-commuter-weather-app/id1501885597) | [@wvabrinskas](https://twitter.com/wvabrinskas) | |
