@@ -68,6 +68,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
 | [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
+| [BFIDE](https://apps.apple.com/app/bf-ide/id1097560040) | [@menezesworks](https://twitter.com/menezesworks) | |
 | [Beep Me - Reminders](https://apps.apple.com/us/app/beep-me-reminders/id380884909) | [@kalsky](https://twitter.com/kalsky) | |
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [beorg: To-Do List & Agenda](https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962) | [@beorgapp](https://twitter.com/beorgapp) | Christian Tietze |
