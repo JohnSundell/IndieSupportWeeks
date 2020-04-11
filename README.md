@@ -62,7 +62,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Adaptivity (A)](https://apps.apple.com/gb/app/adaptivity-a/id1054670022) | [@geoffhackworth](https://twitter.com/geoffhackworth) |Hacking with Swift, Sean Allen, Stacktrace|
 | [AdiPosse - Body Weight Tracker](https://apps.apple.com/us/app/adiposse-body-weight-tracker/id1448188273) | [@bennoland](https://twitter.com/bennoland) | |
 | [ArcadeDefense](https://apps.apple.com/us/app/arcadedefense/id773023784#?platform=iphone) | [@mredig](https://twitter.com/mredig) | |
-| [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad |
+| [Asset Catalog Creator Pro](https://apps.apple.com/us/app/asset-catalog-creator-pro/id809625456) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Ashish Kakkad, Swift by Sundell |
 | [Assistant for Arkham Horror](https://hejki.org/gaah) | [@Hejki](https://twitter.com/hejki) | |
 | [Aurora: Color Picker](https://apps.apple.com/us/app/aurora-color-picker/id1493055655) | [@JPEGuin](https://twitter.com/JPEGuin) |Hacking with Swift|
 | [AvoToast: Meal Planning For Weight Loss](https://www.avotoast.app) | [@joshgachnang](https://twitter.com/joshgachnang) | |
