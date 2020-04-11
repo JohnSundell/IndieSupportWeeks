@@ -153,7 +153,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Homely - Shared Task Manager](https://apps.apple.com/us/app/homely-shared-task-manager/id1483512843) | [@umar__haroon](https://twitter.com/umar__haroon) | Donny Wals |
 | [Hook]( https://hookproductivity.com) | [@HookProductvT](https://twitter.com/HookProductvT) |  |
 | [Horcrux Email Backup](https://apps.apple.com/app/horcrux/id557880555) | [@suhastech](https://twitter.com/suhastech) | |
-| [HTTPBot - REST Client](https://itunes.apple.com/us/app/httpbot/id1232603544) | [@arvindhsukumar](https://twitter.com/arvindhsukumar) | |
+| [HTTPBot - REST Client](https://itunes.apple.com/us/app/httpbot/id1232603544) | [@arvindhsukumar](https://twitter.com/arvindhsukumar) | Swift by Sundell |
 | [huedoku: original color puzzle](https://apps.apple.com/us/app/huedoku/id811256629) | [@gabemott](https://twitter.com/gabemott) | |
 | [Huh? Dictionary](https://apps.apple.com/app/id1330097506) | [@yaapete](https://twitter.com/yaapete) | |
 | [iFont: find, install any font](https://apps.apple.com/gb/app/ifont-find-install-any-font/id1173222289) | [@CameronFLeask](https://twitter.com/CameronFLeask) | |
