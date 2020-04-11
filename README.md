@@ -127,6 +127,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Email Me Notes](https://apps.apple.com/us/app/email-me-notes-in-one-tap/id1090744587) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Endless Paper](https://www.endlesspaper.app) | [@circuit_tree](https://twitter.com/circuit_tree) | Swift by Sundell, Stacktrace |
 | [EveryPlan: Routines for Wellbeing](https://drach.uk/everyplan) | [@misha_drachuk](https://twitter.com/misha_drachuk) | |
+| [Extopy Analytics](https://apps.apple.com/app/extopy-analytics/id1493353835) | [@NathanFallet](https://twitter.com/NathanFallet) | |
 | [Eye Timer for Mac - Prevent eye strain](https://apps.apple.com/us/app/eye-timer/id1485856873) | [@adelmaer](https://twitter.com/adelmaer) | |
 | [Fabula](https://apps.apple.com/us/app/fabula/id1503214451) | [@JPEGuin](https://twitter.com/JPEGuin) | Benoit Pasquier |
 | [Family Graves Map](http://bit.ly/fgmapp) | [@PawelMadejCK](https://twitter.com/PawelMadejCK) | |
@@ -298,6 +299,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [The Archive - Plain.txt note taking](https://zettelkasten.de/the-archive) | [@ctietze](https://twitter.com/ctietze) | |
 | [The Hider - Hide files inside pictures](https://thehider.surge.sh) | [@LucasMW](https://github.com/LucasMW) | |
 | [Thirstic - Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) | [@thirstic](https://twitter.com/thirstic) | |
+| [Tic TAI Toe](https://apps.apple.com/app/tic-tai-toe/id1459186328) | [@NathanFallet](https://twitter.com/NathanFallet) | |
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
 | [Timeless](https://www.dangercove.com/timeless) | [@boyvanamstel](https://twitter.com/boyvanamstel) | Swift Weekly Brief |
