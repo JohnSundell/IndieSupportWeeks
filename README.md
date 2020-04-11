@@ -68,6 +68,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Batteries for Mac](https://fadel.io/batteries) | [@ronyfadel](https://twitter.com/ronyfadel) | |
 | [bartender.live](https://apps.apple.com/us/app/bartender-live/id1309377225) | [@davidgagne](https://twitter.com/davidgagne) | Donny Wals|
 | [BBEdit](https://www.barebones.com) | [@siegel](https://twitter.com/siegel) | Hacking with Swift, Donny Wals |
+| [BFIDE](https://apps.apple.com/app/bf-ide/id1097560040) | [@menezesworks](https://twitter.com/menezesworks) | |
 | [Beep Me - Reminders](https://apps.apple.com/us/app/beep-me-reminders/id380884909) | [@kalsky](https://twitter.com/kalsky) | |
 | [BentoBlox Puzzle Game](https://apps.apple.com/us/app/bentoblox-puzzle-game/id1361865513) | [@mattThousand](https://twitter.com/mattThousand) | Donny Wals |
 | [beorg: To-Do List & Agenda](https://apps.apple.com/us/app/beorg-to-do-list-agenda/id1238649962) | [@beorgapp](https://twitter.com/beorgapp) | Christian Tietze |
@@ -102,6 +103,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [DataOrganizer](http://www.bayhoff.com) | [@bayhoff](https://twitter.com/bayhoff) | |
 | [dbHarbor](https://dbharbor.app) | [@dbharborapp](https://twitter.com/dbharborapp) | |
 | [DD-WRT](https://apps.apple.com/us/app/dd-wrt/id897098616) | [@venderbase](https://twitter.com/venderbase) | |
+| [DeepMP3](https://apps.apple.com/app/deepmp3/id1485924928) | [@menezesworks](https://menezesworks.surge.sh) | |
 | [Dejal Time Out](https://www.dejal.com/timeout) | [@dejus](https://twitter.com/dejus) | |
 | [Delta: Math helper](https://www.delta-math-helper.com) | [@NathanFallet](https://twitter.com/NathanFallet) | |
 | [Deuce - Tennis Scorekeeper](https://apps.apple.com/us/app/deuce-tennis-scorekeeper/id1189508962) | [@AustinConlon](https://twitter.com/AustinConlon) | |
@@ -290,6 +292,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Tempo for Runners](https://apps.apple.com/app/id1106746589) | [@rmatta](https://twitter.com/rmatta) | |
 | [Text Case](https://textcase.app) | [@chrishannah](https://twitter.com/chrishannah) | |
 | [The Archive - Plain.txt note taking](https://zettelkasten.de/the-archive) | [@ctietze](https://twitter.com/ctietze) | |
+| [The Hider - Hide files inside pictures](https://thehider.surge.sh) | [@LucasMW](https://github.com/LucasMW) | |
 | [Thirstic - Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) | [@thirstic](https://twitter.com/thirstic) | |
 | [TimeCrunch: Homework Tool](https://apps.apple.com/us/app/timecrunch-homework-tool/id1485810060) | [@LzCtrl](https://twitter.com/LzCtrl) | |
 | [Timeflower](https://apps.apple.com/app/id1436035479) | [@zgjie](https://twitter.com/zgjie) | |
