@@ -30,6 +30,7 @@ These websites/channels are joining *Indie Support Weeks*, and will promote cert
 - [LearnAppMaking](https://learnappmaking.com)
 - [Benoit Pasquier](https://benoitpasquier.com)
 - [EmpowerAppsShow](https://www.empowerapps.show)
+- [Code.community](https://www.code-community.com)
 
 ## How to join the effort
 
@@ -112,6 +113,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Dictionary Alpha](https://apps.apple.com/us/app/dictionary-alpha/id1505193157) | Rihab Mehboob | |
 | [Digital Photo Frame](https://itunes.apple.com/us/app/digital-photo-frame-pro-slideshow-creator/id1219786089?ls=1&mt=8) | [@manuelescrig](https://twitter.com/manuelescrig) | |
 | [Do I need it?](https://apps.apple.com/app/do-i-need-it/id1495111840) | [@maurogarcia_19](https://twitter.com/maurogarcia_19) | |
+| [Domorrow](https://apps.apple.com/app/domorrow-to-do-list-tasks/id1506158727) | [@bernatcodes](https://instagram.com/bernatcodes) | |
 | [DrawRun - Easily start running](https://apps.apple.com/us/app/drawrun-map-your-runs/id1442873786) | [@jordibruin](https://twitter.com/jordibruin) | SwiftLee |
 | [DrinkControl: Alcohol Tracker](https://apps.apple.com/app/apple-store/id456207840) | [@xjki](https://twitter.com/xjki) | |
 | [Dr. Proto: iPad protototyping with the Apple pencil](https://apps.apple.com/us/app/dr-proto/id1422361544) | [@drprotoapp](https://twitter.com/drprotoapp) | |
@@ -241,6 +243,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [RunIn - Running Training](https://apps.apple.com/br/app/runin-running-training/id1421917327?l=en) | [@fnazarios](https://twitter.com/fnazarios) | |
 | [Salari](https://apps.apple.com/us/app/salari/id1475439249) | [@luispnez](https://twitter.com/luispnez) | |
 | [Samplist](https://apps.apple.com/us/app/samplist/id1347142920) | [@alexbuga](https://twitter.com/alexbuga) | |
+| [SchoolAssistant](https://apps.apple.com/us/app/school-assistant-planner/id1465687472) | [@DylanMcD8](https://twitter.com/DylanMcD8) | |
 | [Screenie](https://www.thnkdev.com/Screenie) | [@jshchnz](https://twitter.com/jshchnz) | |
 | [Screenshot Creator](https://apps.apple.com/us/app/screenshot-creator/id1238399722) | [@MarkBridgesApps](https://twitter.com/MarkBridgesApps) | Hacking with Swift |
 | [Secrets](https://outercorner.com) | [@pfandrade_](https://twitter.com/pfandrade_) | Swift Weekly Brief |
