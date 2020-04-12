@@ -138,7 +138,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [FM Partners](https://apps.apple.com/us/app/fm-partners/id1476127903) | [@bhamm](https://twitter.com/bhamm) | |
 | [FNote - Foreign Note Card](https://apps.apple.com/app/id1455029307) | [@bdaralan](https://twitter.com/bdaralan) | |
 | [FoodNoms - Food Tracker](https://apps.apple.com/us/app/foodnoms/id1479461686) | [@food_noms](https://twitter.com/food_noms) | |
-| [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | Swift by Sundell, Stacktrace |
+| [Formatter](https://roundwallsoftware.com/formatter) | [@samuelgoodwin](https://twitter.com/samuelgoodwin) | Stacktrace |
 | [FormConnect Pro](https://apps.apple.com/app/formconnect-pro/id590313779) | [@formconnections](https://twitter.com/formconnections) | |
 | [FrogRadio](https://frogradio.net) | [@FrogRadioHQ](https://twitter.com/FrogRadioHQ) | |
 | [Geography of the World](https://apps.apple.com/app/geography-of-the-world/id391081388) | [@Tricertops](https://twitter.com/Tricertops) | |
@@ -187,7 +187,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Mindful Affirmations](https://apps.apple.com/us/app/mindful-affirmations/id1473019675) | [@nyeeu](https://twitter.com/nyeeu) | Sky Tripping |
 | [Minutes App](https://minutes.dynamiteapps.io) | [@0xjorgev](https://twitter.com/0xjorgev) | |
 | [Mirror to Google Chromecast TV](https://apps.apple.com/us/app/id1468495939) | [@martinho_t](https://twitter.com/martinho_t) | |
-| [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | |
+| [Mission Control Plus](https://fadel.io/missioncontrolplus) | [@ronyfadel](https://twitter.com/ronyfadel) | Swift by Sundell |
 | [Modules](https://www.spectrumreflections.com/modules-app) | [@specrefco](https://twitter.com/specrefco) | EmpowerAppsShow |
 | [Mouseless](https://mouseless.app) | [@hanspagel](https://twitter.com/hanspagel) | |
 | [MoviX - TV Tracker](https://apps.apple.com/us/app/movix-tv-tracker/id1456292943) | [@hegedus90](https://twitter.com/hegedus90) | |
