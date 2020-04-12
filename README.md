@@ -120,6 +120,7 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [Dualgram](https://apps.apple.com/app/id1474345188) | [@samwize](https://twitter.com/samwize) | |
 | [Earnings Season](https://apps.apple.com/us/app/earnings-season/id1193032716) | [@johncaccavale](https://twitter.com/JohnCaccavale) | |
 | [EarthDesk](https://www.xericdesign.com/earthdesk.php) | [@xericdesign](https://twitter.com/xericdesign) | |
+| [Eastwatch](https://eastwatchapp.com) | [@shadowqi](https://twitter.com/shadowqi) | |
 | [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [@tomvanzummeren](https://twitter.com/tomvanzummeren) | SwiftLee |
 | [EasyGit](https://easygit.app) | [@verigak](https://twitter.com/verigak) | |
 | [Easy Tools](https://apps.apple.com/us/app/easy-tools/id1355114769) | [@cs4alhaider](https://twitter.com/cs4alhaider) | |
@@ -336,7 +337,6 @@ If you’re participating in *Indie Support Weeks* and want to help promote some
 | [WRD Scanner Pro](https://apps.apple.com/app/id1449966107) | [@dsteppenbeck](https://twitter.com/dsteppenbeck) | |
 | [WX Workout Scheduler](https://apps.apple.com/app/apple-store/id1500051249?pt=120892236&ct=isw&mt=8) | [@mattglover](https://twitter.com/mattglover) | |
 | [ZenJournal](https://thezenjournal.com) | [@randomor](https://twitter.com/randomor) | |
-| [Eastwatch](https://eastwatchapp.com) | [@shadowqi](https://twitter.com/shadowqi) | |
 
 ## Answers to common questions
 
