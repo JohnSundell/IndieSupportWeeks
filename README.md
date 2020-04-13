@@ -1,6 +1,6 @@
 # Indie Support Weeks in the Apple Developer Community
 
-*Indie Support Weeks* is an open two-week effort aimed at helping indie developers within the Apple Developer Community who have been financially impacted by the current global COVID-19 pandemic.
+*Indie Support Weeks* was an open two-week effort aimed at helping indie developers within the Apple Developer Community who have been financially impacted by the current global COVID-19 pandemic. While the official initiative has now been concluded, you’re of course more than welcome to use this repository to discover new apps, or to continue supporting your favorite indie developers. But please note that this repository has now been archived and will no longer be updated.
 
 As people are self-isolating around the world, businesses are closing, and many of our normal day-to-day activities are put on hold, many indie developers have seen their sales numbers take a big hit. For some developers, who rely on the income from their apps as the main way to support themselves and their families,  this loss of revenue can lead to tricky and difficult situations, to say the least.
 
@@ -377,20 +377,8 @@ No, not at all. The above list was simply compiled from Twitter messages from de
 
 ### I’m an indie developer who could use some support, how do I add my app?
 
-Submit a Pull Request that adds your app to the list. Please keep the list in alphabetic order.
-
-### My app is on the above list, but I no longer wish to be included in this effort. How do I remove my app?
-
-Submit a Pull Request that removes your app from the list.
-
-### Can I submit a product other than an iOS/macOS/watchOS/tvOS app to be included in the above list?
-
-No, sorry. This effort is focused on indie developers shipping apps on Apple’s platforms.
+Since the official Indie Support Weeks effort has now been concluded, you can no longer add new apps to this list.
 
 ### I want to start a similar effort, but within another community, is that OK?
 
 Of course! The more we can help people who are in need of support during these difficult times, the better.
-
-### I have another question, where can I ask it?
-
-Submit a Pull Request adding your question to this document, and someone from the team will try to answer it as soon as possible.
