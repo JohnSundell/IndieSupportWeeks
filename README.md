@@ -1,6 +1,6 @@
 # Indie Support Weeks in the Apple Developer Community
 
-*Indie Support Weeks* was an open two-week effort aimed at helping indie developers within the Apple Developer Community who have been financially impacted by the current global COVID-19 pandemic. While the official initiative has now been concluded, you’re of course more than welcome to use this repository to discover new apps, or to continue supporting your favorite indie developers. But please note that this repository has now been archived and will no longer be updated.
+*Indie Support Weeks was an open two-week effort aimed at helping indie developers within the Apple Developer Community who have been financially impacted by the current global COVID-19 pandemic. While the official initiative has now been concluded, you’re of course more than welcome to use this repository to discover new apps, or to continue supporting your favorite indie developers. But please note that this repository has now been archived and will no longer be updated.*
 
 As people are self-isolating around the world, businesses are closing, and many of our normal day-to-day activities are put on hold, many indie developers have seen their sales numbers take a big hit. For some developers, who rely on the income from their apps as the main way to support themselves and their families,  this loss of revenue can lead to tricky and difficult situations, to say the least.
 
